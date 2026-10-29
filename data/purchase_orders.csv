@@ -1,0 +1,1011 @@
+po_number,po_date,vendor,category,item,quantity,unit_price,total_amount,department,status
+PO-100000,2025-01-01,Dell Technologies,IT Hardware,Keyboard,18,468.3,8429.4,Sales,Delivered
+PO-100001,2025-01-01,Adobe,Software,Design suite,154,149.5,23023.0,Sales,Delivered
+PO-100002,2025-01-03,Google Ads,Marketing,Ad campaign,6,1658.96,9953.76,HR,Approved
+PO-100003,2025-01-03,Canva,Marketing,Brand design,7,605.33,4237.31,Operations,Delivered
+PO-100004,2025-01-03,Amazon Business,Office Supplies,Toner,171,9.79,1674.09,Sales,Pending
+PO-100005,2025-01-04,Lenovo,IT Hardware,Keyboard,6,1091.31,6547.86,Marketing,Approved
+PO-100006,2025-01-05,Google Ads,Marketing,Event banner,10,2515.06,25150.6,Engineering,Delivered
+PO-100007,2025-01-05,DHL,Logistics,Freight shipment,68,575.2,39113.6,Operations,Closed
+PO-100008,2025-01-06,Lenovo,IT Hardware,Laptop,7,473.43,3314.01,Sales,Approved
+PO-100009,2025-01-06,Office Depot,Office Supplies,Toner,279,53.29,14867.91,Finance,Approved
+PO-100010,2025-01-09,Staples,Office Supplies,Paper ream,128,69.01,8833.28,Operations,Approved
+PO-100011,2025-01-10,Google Ads,Marketing,Brand design,10,2989.09,29890.9,Finance,Approved
+PO-100012,2025-01-10,Canva,Marketing,Ad campaign,9,4079.61,36716.49,Sales,Approved
+PO-100013,2025-01-10,Dell Technologies,IT Hardware,Docking Station,9,1490.85,13417.65,Engineering,Closed
+PO-100014,2025-01-12,Blue Dart,Logistics,Courier batch,78,294.37,22960.86,Engineering,Approved
+PO-100015,2025-01-12,FedEx,Logistics,Freight shipment,40,82.85,3314.0,Operations,Pending
+PO-100016,2025-01-13,DHL,Logistics,Freight shipment,35,660.52,23118.2,HR,Approved
+PO-100017,2025-01-15,Staples,Office Supplies,Paper ream,47,40.68,1911.96,Finance,Delivered
+PO-100018,2025-01-16,Ogilvy,Marketing,Brand design,7,2341.55,16390.85,Sales,Delivered
+PO-100019,2025-01-16,Johnson Controls,Facilities,Security service,9,605.15,5446.35,Sales,Pending
+PO-100020,2025-01-18,DHL,Logistics,Freight shipment,39,476.56,18585.84,Sales,Delivered
+PO-100021,2025-01-19,Adobe,Software,Office licence,79,35.78,2826.62,HR,Closed
+PO-100022,2025-01-20,Johnson Controls,Facilities,Security service,7,586.33,4104.31,Sales,Approved
+PO-100023,2025-01-20,DHL,Logistics,Freight shipment,74,222.66,16476.84,Engineering,Delivered
+PO-100024,2025-01-21,Dell Technologies,IT Hardware,Keyboard,10,1425.39,14253.9,Finance,Approved
+PO-100025,2025-01-21,DHL,Logistics,Warehouse handling,38,693.95,26370.1,Sales,Closed
+PO-100026,2025-01-21,Dell Technologies,IT Hardware,Docking Station,10,978.28,9782.8,Finance,Delivered
+PO-100027,2025-01-22,Johnson Controls,Facilities,AC maintenance,3,681.32,2043.96,Finance,Closed
+PO-100028,2025-01-22,Google Ads,Marketing,Event banner,4,4859.35,19437.4,Operations,Approved
+PO-100029,2025-01-23,HP Inc,IT Hardware,Laptop,16,1243.28,19892.48,Marketing,Delivered
+PO-100030,2025-01-24,Lenovo,IT Hardware,Laptop,15,854.25,12813.75,Marketing,Approved
+PO-100031,2025-01-25,DHL,Logistics,Freight shipment,39,254.18,9913.02,HR,Delivered
+PO-100032,2025-01-25,Lenovo,IT Hardware,Keyboard,1,1244.31,1244.31,HR,Pending
+PO-100033,2025-01-27,DHL,Logistics,Warehouse handling,34,266.25,9052.5,Finance,Approved
+PO-100034,2025-01-29,Dell Technologies,IT Hardware,Keyboard,6,1094.3,6565.8,Finance,Delivered
+PO-100035,2025-01-30,Amazon Business,Office Supplies,Pens box,106,44.05,4669.3,Sales,Closed
+PO-100036,2025-02-01,Office Depot,Office Supplies,Toner,183,53.34,9761.22,Engineering,Approved
+PO-100037,2025-02-02,Lenovo,IT Hardware,Docking Station,9,425.22,3826.98,Marketing,Closed
+PO-100038,2025-02-02,Adobe,Software,Project tool seat,11,115.99,1275.89,Engineering,Closed
+PO-100039,2025-02-02,CBRE,Facilities,Security service,1,201.12,201.12,Finance,Closed
+PO-100040,2025-02-03,Canva,Marketing,Brand design,7,614.65,4302.55,Marketing,Approved
+PO-100041,2025-02-04,CBRE,Facilities,AC maintenance,10,270.65,2706.5,Finance,Delivered
+PO-100042,2025-02-04,FedEx,Logistics,Warehouse handling,67,442.2,29627.4,Marketing,Delivered
+PO-100043,2025-02-04,Atlassian,Software,Office licence,338,42.56,14385.28,Finance,Delivered
+PO-100044,2025-02-04,DHL,Logistics,Freight shipment,37,756.86,28003.82,HR,Delivered
+PO-100045,2025-02-04,HP Inc,IT Hardware,Keyboard,10,1140.17,11401.7,Engineering,Delivered
+PO-100046,2025-02-05,Microsoft,Software,Design suite,168,128.3,21554.4,Operations,Delivered
+PO-100047,2025-02-05,Adobe,Software,Design suite,34,124.88,4245.92,HR,Delivered
+PO-100048,2025-02-05,Amazon Business,Office Supplies,Paper ream,258,20.16,5201.28,Marketing,Delivered
+PO-100049,2025-02-06,Lenovo,IT Hardware,Docking Station,12,1352.86,16234.32,Engineering,Delivered
+PO-100050,2025-02-06,Staples,Office Supplies,Notebooks,268,24.06,6448.08,Finance,Delivered
+PO-100051,2025-02-07,CBRE,Facilities,Security service,1,1704.3,1704.3,Engineering,Approved
+PO-100052,2025-02-08,Google Ads,Marketing,Ad campaign,8,1734.95,13879.6,Engineering,Approved
+PO-100053,2025-02-08,Blue Dart,Logistics,Courier batch,64,131.76,8432.64,Marketing,Delivered
+PO-100054,2025-02-08,Dell Technologies,IT Hardware,Keyboard,12,445.17,5342.04,Engineering,Approved
+PO-100055,2025-02-09,FedEx,Logistics,Warehouse handling,79,716.85,56631.15,Marketing,Approved
+PO-100056,2025-02-11,Staples,Office Supplies,Pens box,267,61.92,16532.64,Sales,Closed
+PO-100057,2025-02-11,Amazon Business,Office Supplies,Toner,63,27.67,1743.21,Marketing,Closed
+PO-100058,2025-02-11,FedEx,Logistics,Freight shipment,57,253.6,14455.2,Engineering,Delivered
+PO-100059,2025-02-12,Dell Technologies,IT Hardware,Keyboard,13,752.13,9777.69,HR,Delivered
+PO-100060,2025-02-12,Blue Dart,Logistics,Freight shipment,5,504.49,2522.45,Marketing,Closed
+PO-100061,2025-02-14,CBRE,Facilities,Security service,10,1134.09,11340.9,Marketing,Delivered
+PO-100062,2025-02-14,HP Inc,IT Hardware,Keyboard,11,1468.45,16152.95,Sales,Closed
+PO-100063,2025-02-14,Amazon Business,Office Supplies,Notebooks,194,6.43,1247.42,Engineering,Closed
+PO-100064,2025-02-17,Amazon Business,Office Supplies,Pens box,219,20.03,4386.57,Sales,Pending
+PO-100065,2025-02-17,DHL,Logistics,Freight shipment,36,662.89,23864.04,Operations,Pending
+PO-100066,2025-02-17,FedEx,Logistics,Warehouse handling,27,335.6,9061.2,HR,Delivered
+PO-100067,2025-02-19,Dell Technologies,IT Hardware,Docking Station,13,1397.09,18162.17,Engineering,Approved
+PO-100068,2025-02-21,Lenovo,IT Hardware,Monitor,17,448.81,7629.77,Marketing,Delivered
+PO-100069,2025-02-22,Johnson Controls,Facilities,Security service,3,744.92,2234.76,Marketing,Pending
+PO-100070,2025-02-22,Blue Dart,Logistics,Freight shipment,74,425.4,31479.6,Finance,Closed
+PO-100071,2025-02-23,Adobe,Software,Office licence,115,135.93,15631.95,Sales,Pending
+PO-100072,2025-02-23,Microsoft,Software,Project tool seat,98,117.27,11492.46,Finance,Closed
+PO-100073,2025-02-23,CBRE,Facilities,AC maintenance,12,229.86,2758.32,Finance,Approved
+PO-100074,2025-02-24,Microsoft,Software,Project tool seat,70,46.59,3261.3,Marketing,Approved
+PO-100075,2025-02-24,DHL,Logistics,Freight shipment,37,399.82,14793.34,HR,Delivered
+PO-100076,2025-02-25,Sodexo,Facilities,Cleaning service,4,579.46,2317.84,Sales,Pending
+PO-100077,2025-02-26,Canva,Marketing,Brand design,8,741.79,5934.32,Marketing,Closed
+PO-100078,2025-02-26,Adobe,Software,Office licence,32,78.02,2496.64,Operations,Delivered
+PO-100079,2025-02-27,CBRE,Facilities,Cleaning service,2,1239.46,2478.92,Engineering,Delivered
+PO-100080,2025-02-27,Johnson Controls,Facilities,AC maintenance,3,1246.42,3739.26,Operations,Pending
+PO-100081,2025-02-27,Johnson Controls,Facilities,Cleaning service,5,1025.96,5129.8,HR,Closed
+PO-100082,2025-02-27,HP Inc,IT Hardware,Laptop,12,771.38,9256.56,Operations,Delivered
+PO-100083,2025-02-28,Adobe,Software,Project tool seat,105,46.59,4891.95,Engineering,Approved
+PO-100084,2025-02-28,Atlassian,Software,Design suite,71,162.71,11552.41,Finance,Pending
+PO-100085,2025-03-01,Ogilvy,Marketing,Ad campaign,4,1153.29,4613.16,Finance,Delivered
+PO-100086,2025-03-03,Adobe,Software,Project tool seat,151,23.32,3521.32,Operations,Delivered
+PO-100087,2025-03-03,Office Depot,Office Supplies,Pens box,299,64.8,19375.2,Operations,Pending
+PO-100088,2025-03-03,Blue Dart,Logistics,Courier batch,13,617.29,8024.77,Finance,Delivered
+PO-100089,2025-03-04,Blue Dart,Logistics,Courier batch,75,440.56,33042.0,Sales,Delivered
+PO-100090,2025-03-05,Amazon Business,Office Supplies,Pens box,44,15.51,682.44,Engineering,Delivered
+PO-100091,2025-03-05,Canva,Marketing,Ad campaign,1,4951.13,4951.13,Sales,Approved
+PO-100092,2025-03-05,Office Depot,Office Supplies,Notebooks,75,49.37,3702.75,Finance,Delivered
+PO-100093,2025-03-06,Microsoft,Software,Office licence,39,182.7,7125.3,Engineering,Pending
+PO-100094,2025-03-06,Lenovo,IT Hardware,Keyboard,20,1175.29,23505.8,Engineering,Closed
+PO-100095,2025-03-07,Atlassian,Software,Design suite,103,129.33,13320.99,Engineering,Approved
+PO-100096,2025-03-07,Staples,Office Supplies,Pens box,154,15.53,2391.62,Engineering,Approved
+PO-100097,2025-03-07,Sodexo,Facilities,Cleaning service,11,2041.06,22451.66,Finance,Delivered
+PO-100098,2025-03-07,Ogilvy,Marketing,Ad campaign,6,3436.6,20619.6,Marketing,Delivered
+PO-100099,2025-03-08,CBRE,Facilities,Security service,10,1869.3,18693.0,HR,Delivered
+PO-100100,2025-03-08,Johnson Controls,Facilities,Cleaning service,1,832.38,832.38,HR,Delivered
+PO-100101,2025-03-08,Google Ads,Marketing,Brand design,10,1695.84,16958.4,Finance,Delivered
+PO-100102,2025-03-08,Adobe,Software,Design suite,187,29.6,5535.2,Marketing,Approved
+PO-100103,2025-03-09,Atlassian,Software,Project tool seat,172,31.21,5368.12,Marketing,Pending
+PO-100104,2025-03-10,Microsoft,Software,Project tool seat,29,141.65,4107.85,Operations,Delivered
+PO-100105,2025-03-10,Google Ads,Marketing,Brand design,6,4409.76,26458.56,Finance,Delivered
+PO-100106,2025-03-10,Amazon Business,Office Supplies,Paper ream,62,75.22,4663.64,Finance,Approved
+PO-100107,2025-03-11,Staples,Office Supplies,Pens box,33,63.5,2095.5,HR,Approved
+PO-100108,2025-03-11,Amazon Business,Office Supplies,Toner,150,64.53,9679.5,HR,Closed
+PO-100109,2025-03-12,DHL,Logistics,Courier batch,8,232.68,1861.44,Sales,Approved
+PO-100110,2025-03-12,Atlassian,Software,Project tool seat,54,80.92,4369.68,Sales,Pending
+PO-100111,2025-03-13,Office Depot,Office Supplies,Toner,135,65.45,8835.75,Finance,Delivered
+PO-100112,2025-03-13,Dell Technologies,IT Hardware,Keyboard,18,310.52,5589.36,Sales,Delivered
+PO-100113,2025-03-13,Ogilvy,Marketing,Ad campaign,10,5073.75,50737.5,Operations,Pending
+PO-100114,2025-03-14,FedEx,Logistics,Courier batch,76,166.17,12628.92,Operations,Delivered
+PO-100115,2025-03-14,Sodexo,Facilities,Cleaning service,4,1274.22,5096.88,HR,Pending
+PO-100116,2025-03-15,Adobe,Software,Project tool seat,41,51.36,2105.76,Marketing,Delivered
+PO-100117,2025-03-15,HP Inc,IT Hardware,Laptop,15,522.99,7844.85,Operations,Closed
+PO-100118,2025-03-17,Atlassian,Software,Design suite,131,202.63,26544.53,Marketing,Pending
+PO-100119,2025-03-17,DHL,Logistics,Freight shipment,68,433.22,29458.96,Engineering,Closed
+PO-100120,2025-03-17,Canva,Marketing,Brand design,7,1989.09,13923.63,Operations,Closed
+PO-100121,2025-03-17,Amazon Business,Office Supplies,Toner,40,35.94,1437.6,Finance,Approved
+PO-100122,2025-03-17,Blue Dart,Logistics,Courier batch,80,280.44,22435.2,Finance,Delivered
+PO-100123,2025-03-18,Lenovo,IT Hardware,Keyboard,1,869.25,869.25,Marketing,Delivered
+PO-100124,2025-03-18,Dell Technologies,IT Hardware,Keyboard,2,21711.2,43422.4,Operations,Approved
+PO-100125,2025-03-19,Canva,Marketing,Brand design,8,2373.38,18987.04,Marketing,Delivered
+PO-100126,2025-03-19,DHL,Logistics,Warehouse handling,54,295.78,15972.12,HR,Delivered
+PO-100127,2025-03-19,Microsoft,Software,Design suite,97,165.97,16099.09,Marketing,Approved
+PO-100128,2025-03-19,Atlassian,Software,Project tool seat,56,109.57,6135.92,HR,Delivered
+PO-100129,2025-03-19,Office Depot,Office Supplies,Toner,205,23.51,4819.55,Finance,Closed
+PO-100130,2025-03-20,Blue Dart,Logistics,Courier batch,9,334.7,3012.3,Marketing,Closed
+PO-100131,2025-03-20,DHL,Logistics,Freight shipment,31,147.19,4562.89,Finance,Delivered
+PO-100132,2025-03-21,Office Depot,Office Supplies,Toner,34,48.06,1634.04,Sales,Closed
+PO-100133,2025-03-21,Staples,Office Supplies,Toner,272,60.82,16543.04,Finance,Closed
+PO-100134,2025-03-22,Adobe,Software,Design suite,106,158.76,16828.56,Engineering,Approved
+PO-100135,2025-03-22,Johnson Controls,Facilities,Cleaning service,2,1278.84,2557.68,Finance,Closed
+PO-100136,2025-03-24,DHL,Logistics,Courier batch,51,93.6,4773.6,Engineering,Closed
+PO-100137,2025-03-24,FedEx,Logistics,Freight shipment,34,546.59,18584.06,Operations,Delivered
+PO-100138,2025-03-24,Dell Technologies,IT Hardware,Docking Station,15,1265.32,18979.8,Operations,Closed
+PO-100139,2025-03-25,Atlassian,Software,Design suite,126,138.26,17420.76,Engineering,Approved
+PO-100140,2025-03-26,CBRE,Facilities,Cleaning service,9,480.78,4327.02,Engineering,Closed
+PO-100141,2025-03-26,HP Inc,IT Hardware,Monitor,2,655.84,1311.68,HR,Delivered
+PO-100142,2025-03-27,Atlassian,Software,Design suite,45,36.32,1634.4,HR,Closed
+PO-100143,2025-03-27,HP Inc,IT Hardware,Keyboard,17,1097.06,18650.02,HR,Pending
+PO-100144,2025-03-27,Atlassian,Software,Office licence,31,91.89,2848.59,Marketing,Approved
+PO-100145,2025-03-27,Sodexo,Facilities,Cleaning service,9,1742.93,15686.37,HR,Approved
+PO-100146,2025-03-28,DHL,Logistics,Warehouse handling,79,410.69,32444.51,Sales,Pending
+PO-100147,2025-03-28,Office Depot,Office Supplies,Notebooks,289,63.24,18276.36,Marketing,Closed
+PO-100148,2025-03-28,Office Depot,Office Supplies,Pens box,96,50.75,4872.0,Engineering,Closed
+PO-100149,2025-03-30,Amazon Business,Office Supplies,Paper ream,181,29.64,5364.84,Sales,Delivered
+PO-100150,2025-03-30,Sodexo,Facilities,Cleaning service,7,1428.45,9999.15,Operations,Closed
+PO-100151,2025-03-31,DHL,Logistics,Courier batch,27,355.96,9610.92,Engineering,Approved
+PO-100152,2025-04-01,DHL,Logistics,Courier batch,16,538.29,8612.64,Sales,Delivered
+PO-100153,2025-04-01,Blue Dart,Logistics,Warehouse handling,47,272.4,12802.8,Engineering,Delivered
+PO-100154,2025-04-02,Ogilvy,Marketing,Ad campaign,4,4817.82,19271.28,Engineering,Approved
+PO-100155,2025-04-02,Google Ads,Marketing,Brand design,10,4194.0,41940.0,Finance,Pending
+PO-100156,2025-04-02,HP Inc,IT Hardware,Laptop,1,1516.5,1516.5,Finance,Delivered
+PO-100157,2025-04-04,Amazon Business,Office Supplies,Toner,55,30.43,1673.65,Finance,Delivered
+PO-100158,2025-04-04,DHL,Logistics,Courier batch,37,547.8,20268.6,HR,Closed
+PO-100159,2025-04-04,Amazon Business,Office Supplies,Pens box,77,13.09,1007.93,Sales,Closed
+PO-100160,2025-04-04,CBRE,Facilities,Cleaning service,3,689.77,2069.31,Operations,Closed
+PO-100161,2025-04-04,DHL,Logistics,Freight shipment,30,588.78,17663.4,HR,Closed
+PO-100162,2025-04-04,Staples,Office Supplies,Paper ream,114,79.86,9104.04,HR,Closed
+PO-100163,2025-04-05,HP Inc,IT Hardware,Laptop,8,573.98,4591.84,Sales,Approved
+PO-100164,2025-04-05,Blue Dart,Logistics,Freight shipment,55,607.22,33397.1,Operations,Delivered
+PO-100165,2025-04-05,Amazon Business,Office Supplies,Pens box,270,72.27,19512.9,Sales,Closed
+PO-100166,2025-04-05,Staples,Office Supplies,Pens box,283,48.56,13742.48,Engineering,Closed
+PO-100167,2025-04-06,Google Ads,Marketing,Ad campaign,7,2465.49,17258.43,Sales,Pending
+PO-100168,2025-04-06,HP Inc,IT Hardware,Monitor,16,1557.19,24915.04,Engineering,Approved
+PO-100169,2025-04-07,Lenovo,IT Hardware,Keyboard,17,631.6,10737.2,Finance,Delivered
+PO-100170,2025-04-07,Staples,Office Supplies,Paper ream,293,46.14,13519.02,HR,Approved
+PO-100171,2025-04-08,Microsoft,Software,Office licence,66,197.72,13049.52,Marketing,Pending
+PO-100172,2025-04-08,DHL,Logistics,Courier batch,20,642.81,12856.2,Marketing,Approved
+PO-100173,2025-04-09,HP Inc,IT Hardware,Laptop,7,1362.15,9535.05,Engineering,Delivered
+PO-100174,2025-04-10,Lenovo,IT Hardware,Monitor,11,1066.82,11735.02,Sales,Delivered
+PO-100175,2025-04-10,Google Ads,Marketing,Brand design,4,3123.24,12492.96,HR,Delivered
+PO-100176,2025-04-10,Ogilvy,Marketing,Event banner,9,358.65,3227.85,HR,Approved
+PO-100177,2025-04-12,Canva,Marketing,Event banner,8,3849.46,30795.68,Finance,Pending
+PO-100178,2025-04-13,Sodexo,Facilities,Security service,7,476.26,3333.82,Marketing,Closed
+PO-100179,2025-04-13,Johnson Controls,Facilities,Cleaning service,2,1638.01,3276.02,Sales,Closed
+PO-100180,2025-04-14,Google Ads,Marketing,Ad campaign,10,5148.0,51480.0,HR,Closed
+PO-100181,2025-04-16,Office Depot,Office Supplies,Toner,134,12.6,1688.4,Marketing,Delivered
+PO-100182,2025-04-16,Adobe,Software,Design suite,63,120.55,7594.65,Finance,Delivered
+PO-100183,2025-04-17,Office Depot,Office Supplies,Notebooks,58,26.64,1545.12,Engineering,Delivered
+PO-100184,2025-04-18,Atlassian,Software,Office licence,141,21.79,3072.39,Marketing,Delivered
+PO-100185,2025-04-19,FedEx,Logistics,Freight shipment,35,181.81,6363.35,Sales,Approved
+PO-100186,2025-04-21,Dell Technologies,IT Hardware,Monitor,10,1519.28,15192.8,Sales,Approved
+PO-100187,2025-04-23,FedEx,Logistics,Warehouse handling,33,172.07,5678.31,Marketing,Delivered
+PO-100188,2025-04-24,CBRE,Facilities,AC maintenance,7,510.33,3572.31,Operations,Approved
+PO-100189,2025-04-24,Google Ads,Marketing,Event banner,10,733.75,7337.5,Marketing,Closed
+PO-100190,2025-04-24,Ogilvy,Marketing,Brand design,9,4842.7,43584.3,HR,Delivered
+PO-100191,2025-04-26,Lenovo,IT Hardware,Keyboard,12,739.01,8868.12,Finance,Approved
+PO-100192,2025-04-26,HP Inc,IT Hardware,Keyboard,8,1235.35,9882.8,Sales,Delivered
+PO-100193,2025-04-26,Johnson Controls,Facilities,AC maintenance,12,525.72,6308.64,HR,Pending
+PO-100194,2025-04-27,Google Ads,Marketing,Ad campaign,7,2802.37,19616.59,Operations,Pending
+PO-100195,2025-04-27,HP Inc,IT Hardware,Docking Station,3,10592.83,31778.49,Engineering,Delivered
+PO-100196,2025-04-28,Blue Dart,Logistics,Courier batch,12,822.18,9866.16,Marketing,Approved
+PO-100197,2025-04-29,Google Ads,Marketing,Brand design,6,1195.86,7175.16,HR,Delivered
+PO-100198,2025-04-30,FedEx,Logistics,Warehouse handling,16,455.55,7288.8,Engineering,Pending
+PO-100199,2025-04-30,Adobe,Software,Project tool seat,198,156.2,30927.6,Marketing,Delivered
+PO-100200,2025-04-30,Google Ads,Marketing,Brand design,6,845.58,5073.48,Marketing,Closed
+PO-100201,2025-05-03,Dell Technologies,IT Hardware,Laptop,9,1303.32,11729.88,HR,Closed
+PO-100202,2025-05-04,Blue Dart,Logistics,Freight shipment,41,415.88,17051.08,Finance,Approved
+PO-100203,2025-05-05,Amazon Business,Office Supplies,Toner,254,16.3,4140.2,Finance,Delivered
+PO-100204,2025-05-05,DHL,Logistics,Courier batch,34,268.2,9118.8,Engineering,Delivered
+PO-100205,2025-05-06,Ogilvy,Marketing,Ad campaign,10,4557.07,45570.7,Marketing,Delivered
+PO-100206,2025-05-06,DHL,Logistics,Freight shipment,42,762.96,32044.32,Finance,Approved
+PO-100207,2025-05-07,Amazon Business,Office Supplies,Pens box,24,58.75,1410.0,Sales,Closed
+PO-100208,2025-05-08,Dell Technologies,IT Hardware,Keyboard,6,1443.53,8661.18,HR,Closed
+PO-100209,2025-05-10,Canva,Marketing,Event banner,7,1842.66,12898.62,Finance,Delivered
+PO-100210,2025-05-10,CBRE,Facilities,Security service,11,2076.1,22837.1,Marketing,Pending
+PO-100211,2025-05-10,Google Ads,Marketing,Brand design,3,3193.37,9580.11,Sales,Closed
+PO-100212,2025-05-10,Adobe,Software,Office licence,174,53.2,9256.8,Engineering,Pending
+PO-100213,2025-05-10,Canva,Marketing,Ad campaign,7,1301.3,9109.1,HR,Delivered
+PO-100214,2025-05-11,Ogilvy,Marketing,Event banner,2,959.24,1918.48,Sales,Delivered
+PO-100215,2025-05-11,FedEx,Logistics,Warehouse handling,62,453.82,28136.84,Operations,Delivered
+PO-100216,2025-05-11,CBRE,Facilities,Cleaning service,2,1181.15,2362.3,Finance,Approved
+PO-100217,2025-05-11,Dell Technologies,IT Hardware,Docking Station,4,541.04,2164.16,Engineering,Closed
+PO-100218,2025-05-12,Google Ads,Marketing,Ad campaign,8,347.23,2777.84,Marketing,Delivered
+PO-100219,2025-05-13,Office Depot,Office Supplies,Toner,73,21.87,1596.51,Marketing,Approved
+PO-100220,2025-05-13,Microsoft,Software,Design suite,148,109.18,16158.64,Finance,Delivered
+PO-100221,2025-05-14,Canva,Marketing,Ad campaign,7,1911.96,13383.72,HR,Closed
+PO-100222,2025-05-14,Lenovo,IT Hardware,Laptop,20,562.98,11259.6,Engineering,Delivered
+PO-100223,2025-05-15,FedEx,Logistics,Courier batch,67,126.74,8491.58,Finance,Approved
+PO-100224,2025-05-15,Amazon Business,Office Supplies,Paper ream,138,15.3,2111.4,Sales,Delivered
+PO-100225,2025-05-15,DHL,Logistics,Freight shipment,45,577.7,25996.5,HR,Delivered
+PO-100226,2025-05-17,Amazon Business,Office Supplies,Toner,16,37.1,593.6,Marketing,Delivered
+PO-100227,2025-05-17,Adobe,Software,Project tool seat,43,46.9,2016.7,Sales,Delivered
+PO-100228,2025-05-18,HP Inc,IT Hardware,Keyboard,4,856.69,3426.76,Sales,Delivered
+PO-100229,2025-05-19,DHL,Logistics,Warehouse handling,8,410.46,3283.68,Operations,Closed
+PO-100230,2025-05-20,Adobe,Software,Office licence,139,33.81,4699.59,Engineering,Closed
+PO-100231,2025-05-20,Ogilvy,Marketing,Event banner,3,2342.12,7026.36,Engineering,Delivered
+PO-100232,2025-05-20,Google Ads,Marketing,Ad campaign,10,1955.73,19557.3,Engineering,Closed
+PO-100233,2025-05-22,Ogilvy,Marketing,Ad campaign,8,5181.27,41450.16,Sales,Delivered
+PO-100234,2025-05-23,Johnson Controls,Facilities,AC maintenance,9,917.92,8261.28,Engineering,Delivered
+PO-100235,2025-05-23,DHL,Logistics,Courier batch,73,386.34,28202.82,HR,Delivered
+PO-100236,2025-05-23,Blue Dart,Logistics,Freight shipment,55,68.71,3779.05,Operations,Pending
+PO-100237,2025-05-24,Dell Technologies,IT Hardware,Keyboard,3,678.64,2035.92,Marketing,Approved
+PO-100238,2025-05-24,Atlassian,Software,Project tool seat,133,54.01,7183.33,Engineering,Delivered
+PO-100239,2025-05-25,Ogilvy,Marketing,Event banner,7,5259.51,36816.57,Engineering,Approved
+PO-100240,2025-05-27,Office Depot,Office Supplies,Paper ream,282,10.03,2828.46,HR,Approved
+PO-100241,2025-05-27,Staples,Office Supplies,Pens box,49,57.26,2805.74,Marketing,Closed
+PO-100242,2025-05-28,Office Depot,Office Supplies,Paper ream,281,83.28,23401.68,Marketing,Pending
+PO-100243,2025-05-29,FedEx,Logistics,Freight shipment,67,384.25,25744.75,Sales,Closed
+PO-100244,2025-05-30,Office Depot,Office Supplies,Paper ream,293,74.69,21884.17,Finance,Delivered
+PO-100245,2025-05-30,Atlassian,Software,Project tool seat,174,68.27,11878.98,Sales,Approved
+PO-100246,2025-05-30,Johnson Controls,Facilities,Security service,112,1518.6,170083.2,Finance,Approved
+PO-100247,2025-05-30,Microsoft,Software,Design suite,65,161.39,10490.35,Operations,Closed
+PO-100248,2025-06-01,CBRE,Facilities,Security service,8,1497.26,11978.08,Finance,Approved
+PO-100249,2025-06-02,HP Inc,IT Hardware,Docking Station,12,996.2,11954.4,Sales,Approved
+PO-100250,2025-06-02,CBRE,Facilities,AC maintenance,2,1268.8,2537.6,Marketing,Delivered
+PO-100251,2025-06-02,Atlassian,Software,Project tool seat,10,51.64,516.4,Finance,Closed
+PO-100252,2025-06-02,Johnson Controls,Facilities,Cleaning service,8,909.15,7273.2,Marketing,Delivered
+PO-100253,2025-06-02,Adobe,Software,Project tool seat,110,72.74,8001.4,Finance,Approved
+PO-100254,2025-06-05,Microsoft,Software,Project tool seat,174,210.3,36592.2,Sales,Delivered
+PO-100255,2025-06-06,Google Ads,Marketing,Brand design,5,714.54,3572.7,Marketing,Delivered
+PO-100256,2025-06-08,Canva,Marketing,Ad campaign,6,5000.93,30005.58,Finance,Delivered
+PO-100257,2025-06-09,Dell Technologies,IT Hardware,Laptop,14,1322.13,18509.82,HR,Delivered
+PO-100258,2025-06-10,Microsoft,Software,Office licence,161,76.85,12372.85,Marketing,Approved
+PO-100259,2025-06-10,Office Depot,Office Supplies,Notebooks,292,35.9,10482.8,Engineering,Approved
+PO-100260,2025-06-10,Blue Dart,Logistics,Warehouse handling,60,73.08,4384.8,Finance,Delivered
+PO-100261,2025-06-12,Sodexo,Facilities,Cleaning service,144,907.15,130629.6,Engineering,Approved
+PO-100262,2025-06-13,Dell Technologies,IT Hardware,Laptop,3,1347.73,4043.19,Marketing,Approved
+PO-100263,2025-06-14,Adobe,Software,Office licence,195,110.86,21617.7,Finance,Delivered
+PO-100264,2025-06-15,Adobe,Software,Project tool seat,111,209.37,23240.07,HR,Delivered
+PO-100265,2025-06-16,Blue Dart,Logistics,Freight shipment,15,89.37,1340.55,HR,Delivered
+PO-100266,2025-06-17,Atlassian,Software,Project tool seat,131,139.0,18209.0,HR,Delivered
+PO-100267,2025-06-18,Sodexo,Facilities,Security service,9,1016.45,9148.05,Engineering,Closed
+PO-100268,2025-06-18,DHL,Logistics,Freight shipment,40,312.63,12505.2,Sales,Approved
+PO-100269,2025-06-19,Staples,Office Supplies,Toner,128,74.1,9484.8,Operations,Closed
+PO-100270,2025-06-19,Blue Dart,Logistics,Warehouse handling,33,805.8,26591.4,HR,Delivered
+PO-100271,2025-06-20,Sodexo,Facilities,AC maintenance,5,987.97,4939.85,Engineering,Delivered
+PO-100272,2025-06-21,Staples,Office Supplies,Paper ream,178,59.26,10548.28,HR,Delivered
+PO-100273,2025-06-22,Google Ads,Marketing,Event banner,10,1322.02,13220.2,Finance,Pending
+PO-100274,2025-06-23,Amazon Business,Office Supplies,Paper ream,53,45.4,2406.2,HR,Approved
+PO-100275,2025-06-24,Google Ads,Marketing,Event banner,8,5017.33,40138.64,Finance,Approved
+PO-100276,2025-06-24,Ogilvy,Marketing,Event banner,10,4749.42,47494.2,HR,Delivered
+PO-100277,2025-06-25,Atlassian,Software,Design suite,89,37.12,3303.68,Finance,Closed
+PO-100278,2025-06-26,FedEx,Logistics,Warehouse handling,7,342.93,2400.51,HR,Delivered
+PO-100279,2025-06-27,Blue Dart,Logistics,Warehouse handling,7,134.24,939.68,Engineering,Approved
+PO-100280,2025-06-27,Blue Dart,Logistics,Freight shipment,14,722.95,10121.3,Marketing,Closed
+PO-100281,2025-06-27,Johnson Controls,Facilities,Security service,3,1547.13,4641.39,HR,Delivered
+PO-100282,2025-06-27,Sodexo,Facilities,AC maintenance,7,314.01,2198.07,Operations,Delivered
+PO-100283,2025-06-28,Ogilvy,Marketing,Event banner,4,5044.11,20176.44,Marketing,Approved
+PO-100284,2025-06-29,Canva,Marketing,Brand design,9,1434.62,12911.58,Engineering,Approved
+PO-100285,2025-06-29,Office Depot,Office Supplies,Toner,35,70.37,2462.95,Sales,Closed
+PO-100286,2025-06-29,Staples,Office Supplies,Pens box,192,69.54,13351.68,Finance,Delivered
+PO-100287,2025-06-29,Atlassian,Software,Project tool seat,24,187.07,4489.68,Sales,Delivered
+PO-100288,2025-06-30,Amazon Business,Office Supplies,Paper ream,149,8.63,1285.87,Operations,Delivered
+PO-100289,2025-07-01,Atlassian,Software,Office licence,190,100.68,19129.2,HR,Delivered
+PO-100290,2025-07-01,Office Depot,Office Supplies,Notebooks,262,87.1,22820.2,HR,Closed
+PO-100291,2025-07-02,Johnson Controls,Facilities,Cleaning service,11,1520.03,16720.33,Operations,Closed
+PO-100292,2025-07-04,Sodexo,Facilities,Cleaning service,5,296.59,1482.95,HR,Closed
+PO-100293,2025-07-04,DHL,Logistics,Warehouse handling,64,821.73,52590.72,Marketing,Closed
+PO-100294,2025-07-05,Ogilvy,Marketing,Event banner,1,2735.24,2735.24,Finance,Closed
+PO-100295,2025-07-05,DHL,Logistics,Courier batch,35,665.23,23283.05,Sales,Approved
+PO-100296,2025-07-05,Google Ads,Marketing,Brand design,10,2372.76,23727.6,Sales,Approved
+PO-100297,2025-07-06,Staples,Office Supplies,Toner,163,66.34,10813.42,Engineering,Approved
+PO-100298,2025-07-06,Staples,Office Supplies,Pens box,63,43.37,2732.31,Sales,Closed
+PO-100299,2025-07-06,Microsoft,Software,Design suite,134,153.81,20610.54,Operations,Pending
+PO-100300,2025-07-06,DHL,Logistics,Courier batch,25,161.5,4037.5,Operations,Delivered
+PO-100301,2025-07-06,Johnson Controls,Facilities,AC maintenance,9,471.8,4246.2,Operations,Approved
+PO-100302,2025-07-07,Canva,Marketing,Ad campaign,2,1239.21,2478.42,Finance,Delivered
+PO-100303,2025-07-07,Google Ads,Marketing,Ad campaign,9,1644.17,14797.53,Engineering,Approved
+PO-100304,2025-07-07,DHL,Logistics,Freight shipment,39,725.31,28287.09,HR,Approved
+PO-100305,2025-07-08,Johnson Controls,Facilities,AC maintenance,1,444.38,444.38,HR,Approved
+PO-100306,2025-07-08,Amazon Business,Office Supplies,Paper ream,146,37.5,5475.0,Marketing,Delivered
+PO-100307,2025-07-09,Amazon Business,Office Supplies,Toner,148,10.38,1536.24,Operations,Pending
+PO-100308,2025-07-09,CBRE,Facilities,AC maintenance,3,712.34,2137.02,Sales,Pending
+PO-100309,2025-07-13,Office Depot,Office Supplies,Paper ream,89,30.66,2728.74,Operations,Pending
+PO-100310,2025-07-13,DHL,Logistics,Warehouse handling,74,750.19,55514.06,Engineering,Approved
+PO-100311,2025-07-14,Canva,Marketing,Event banner,7,3733.14,26131.98,Operations,Delivered
+PO-100312,2025-07-14,DHL,Logistics,Courier batch,13,249.34,3241.42,Operations,Delivered
+PO-100313,2025-07-14,FedEx,Logistics,Warehouse handling,22,280.3,6166.6,Finance,Delivered
+PO-100314,2025-07-15,HP Inc,IT Hardware,Keyboard,10,859.83,8598.3,Operations,Closed
+PO-100315,2025-07-16,Johnson Controls,Facilities,Cleaning service,10,1063.59,10635.9,Operations,Delivered
+PO-100316,2025-07-16,Johnson Controls,Facilities,Cleaning service,6,982.48,5894.88,Operations,Approved
+PO-100317,2025-07-17,FedEx,Logistics,Freight shipment,66,271.98,17950.68,Engineering,Approved
+PO-100318,2025-07-17,Lenovo,IT Hardware,Monitor,11,991.72,10908.92,Sales,Delivered
+PO-100319,2025-07-18,Atlassian,Software,Project tool seat,88,115.86,10195.68,Finance,Delivered
+PO-100320,2025-07-19,Office Depot,Office Supplies,Paper ream,226,314.42,71058.92,HR,Pending
+PO-100321,2025-07-20,Staples,Office Supplies,Notebooks,246,46.8,11512.8,HR,Approved
+PO-100322,2025-07-21,CBRE,Facilities,Cleaning service,11,1951.98,21471.78,Engineering,Approved
+PO-100323,2025-07-23,Blue Dart,Logistics,Freight shipment,68,228.69,15550.92,Finance,Closed
+PO-100324,2025-07-23,Google Ads,Marketing,Event banner,7,483.96,3387.72,Engineering,Closed
+PO-100325,2025-07-25,Canva,Marketing,Brand design,3,4406.65,13219.95,Finance,Closed
+PO-100326,2025-07-26,Office Depot,Office Supplies,Pens box,186,82.2,15289.2,Marketing,Approved
+PO-100327,2025-07-27,Microsoft,Software,Design suite,175,81.8,14315.0,Finance,Approved
+PO-100328,2025-07-27,Staples,Office Supplies,Notebooks,120,68.46,8215.2,HR,Delivered
+PO-100329,2025-07-28,Atlassian,Software,Office licence,42,205.57,8633.94,Operations,Delivered
+PO-100330,2025-07-28,Microsoft,Software,Project tool seat,55,171.53,9434.15,HR,Delivered
+PO-100331,2025-07-28,Canva,Marketing,Brand design,1,1306.25,1306.25,Operations,Approved
+PO-100332,2025-07-29,Ogilvy,Marketing,Event banner,5,3555.69,17778.45,Operations,Delivered
+PO-100333,2025-07-31,Atlassian,Software,Office licence,60,200.99,12059.4,Sales,Closed
+PO-100334,2025-07-31,Atlassian,Software,Project tool seat,92,71.45,6573.4,Finance,Delivered
+PO-100335,2025-07-31,Johnson Controls,Facilities,Cleaning service,9,1671.72,15045.48,HR,Approved
+PO-100336,2025-07-31,Ogilvy,Marketing,Event banner,2,1396.13,2792.26,Engineering,Closed
+PO-100337,2025-08-02,HP Inc,IT Hardware,Laptop,19,360.31,6845.89,Marketing,Approved
+PO-100338,2025-08-03,Staples,Office Supplies,Toner,299,42.07,12578.93,Operations,Approved
+PO-100339,2025-08-03,Johnson Controls,Facilities,Security service,11,756.44,8320.84,Sales,Delivered
+PO-100340,2025-08-04,Microsoft,Software,Office licence,82,218.98,17956.36,Engineering,Approved
+PO-100341,2025-08-06,Sodexo,Facilities,AC maintenance,5,795.44,3977.2,Finance,Delivered
+PO-100342,2025-08-07,Staples,Office Supplies,Notebooks,51,5.57,284.07,HR,Pending
+PO-100343,2025-08-08,Blue Dart,Logistics,Warehouse handling,65,328.9,21378.5,Operations,Closed
+PO-100344,2025-08-09,FedEx,Logistics,Freight shipment,53,878.63,46567.39,Marketing,Delivered
+PO-100345,2025-08-09,Lenovo,IT Hardware,Keyboard,11,839.07,9229.77,Marketing,Closed
+PO-100346,2025-08-10,CBRE,Facilities,Security service,2,1487.51,2975.02,Sales,Approved
+PO-100347,2025-08-10,Blue Dart,Logistics,Freight shipment,23,334.42,7691.66,Finance,Delivered
+PO-100348,2025-08-11,HP Inc,IT Hardware,Monitor,20,518.5,10370.0,Marketing,Closed
+PO-100349,2025-08-11,DHL,Logistics,Courier batch,37,160.69,5945.53,Sales,Closed
+PO-100350,2025-08-13,Johnson Controls,Facilities,Security service,10,2027.67,20276.7,Sales,Pending
+PO-100351,2025-08-13,Johnson Controls,Facilities,AC maintenance,5,217.32,1086.6,Operations,Approved
+PO-100352,2025-08-14,HP Inc,IT Hardware,Laptop,2,598.74,1197.48,Marketing,Closed
+PO-100353,2025-08-14,CBRE,Facilities,Security service,1,1704.74,1704.74,Finance,Approved
+PO-100354,2025-08-15,Canva,Marketing,Brand design,1,718.56,718.56,HR,Closed
+PO-100355,2025-08-15,Microsoft,Software,Project tool seat,23,180.54,4152.42,Sales,Approved
+PO-100356,2025-08-16,Ogilvy,Marketing,Event banner,5,2068.26,10341.3,Marketing,Approved
+PO-100357,2025-08-16,Office Depot,Office Supplies,Notebooks,172,85.27,14666.44,HR,Approved
+PO-100358,2025-08-18,HP Inc,IT Hardware,Monitor,4,1175.72,4702.88,HR,Pending
+PO-100359,2025-08-19,Google Ads,Marketing,Brand design,3,2569.88,7709.64,Engineering,Closed
+PO-100360,2025-08-20,Adobe,Software,Project tool seat,95,146.12,13881.4,Engineering,Delivered
+PO-100361,2025-08-20,Adobe,Software,Design suite,94,163.87,15403.78,HR,Delivered
+PO-100362,2025-08-20,Amazon Business,Office Supplies,Pens box,220,82.84,18224.8,Sales,Delivered
+PO-100363,2025-08-20,Lenovo,IT Hardware,Docking Station,15,983.64,14754.6,Finance,Delivered
+PO-100364,2025-08-21,Canva,Marketing,Event banner,138,613.87,84714.06,HR,Delivered
+PO-100365,2025-08-22,Adobe,Software,Design suite,58,59.6,3456.8,Operations,Closed
+PO-100366,2025-08-23,Office Depot,Office Supplies,Toner,41,67.18,2754.38,Finance,Delivered
+PO-100367,2025-08-23,Ogilvy,Marketing,Event banner,8,3244.19,25953.52,Engineering,Closed
+PO-100368,2025-08-23,Lenovo,IT Hardware,Monitor,17,1636.53,27821.01,HR,Delivered
+PO-100369,2025-08-23,CBRE,Facilities,Security service,2,1193.19,2386.38,HR,Closed
+PO-100370,2025-08-24,Microsoft,Software,Project tool seat,39,202.26,7888.14,Finance,Pending
+PO-100371,2025-08-25,Staples,Office Supplies,Pens box,242,24.65,5965.3,Engineering,Closed
+PO-100372,2025-08-26,Google Ads,Marketing,Ad campaign,8,4328.51,34628.08,Finance,Closed
+PO-100373,2025-08-26,Sodexo,Facilities,Security service,6,1707.01,10242.06,HR,Delivered
+PO-100374,2025-08-26,DHL,Logistics,Freight shipment,22,419.74,9234.28,Marketing,Closed
+PO-100375,2025-08-26,CBRE,Facilities,Security service,12,572.72,6872.64,Operations,Delivered
+PO-100376,2025-08-27,Amazon Business,Office Supplies,Notebooks,114,24.08,2745.12,Sales,Approved
+PO-100377,2025-08-27,Canva,Marketing,Ad campaign,3,4918.78,14756.34,Sales,Delivered
+PO-100378,2025-08-28,Ogilvy,Marketing,Brand design,2,1168.32,2336.64,Marketing,Delivered
+PO-100379,2025-08-29,Ogilvy,Marketing,Ad campaign,2,3238.09,6476.18,Sales,Delivered
+PO-100380,2025-08-29,DHL,Logistics,Freight shipment,67,195.42,13093.14,Sales,Approved
+PO-100381,2025-08-29,Johnson Controls,Facilities,Cleaning service,7,675.54,4728.78,Sales,Delivered
+PO-100382,2025-09-01,Lenovo,IT Hardware,Docking Station,19,1011.24,19213.56,Marketing,Delivered
+PO-100383,2025-09-01,CBRE,Facilities,AC maintenance,6,2193.28,13159.68,Engineering,Approved
+PO-100384,2025-09-02,FedEx,Logistics,Courier batch,12,455.02,5460.24,Operations,Approved
+PO-100385,2025-09-03,Blue Dart,Logistics,Warehouse handling,75,135.25,10143.75,HR,Approved
+PO-100386,2025-09-03,Dell Technologies,IT Hardware,Monitor,20,357.81,7156.2,Engineering,Delivered
+PO-100387,2025-09-03,Staples,Office Supplies,Paper ream,237,84.76,20088.12,Marketing,Pending
+PO-100388,2025-09-03,Ogilvy,Marketing,Ad campaign,10,1646.35,16463.5,Marketing,Approved
+PO-100389,2025-09-04,HP Inc,IT Hardware,Laptop,1,721.18,721.18,Sales,Delivered
+PO-100390,2025-09-04,Amazon Business,Office Supplies,Paper ream,161,50.39,8112.79,HR,Approved
+PO-100391,2025-09-05,Canva,Marketing,Brand design,1,2993.36,2993.36,Marketing,Approved
+PO-100392,2025-09-05,Johnson Controls,Facilities,Security service,9,1630.51,14674.59,HR,Approved
+PO-100393,2025-09-07,HP Inc,IT Hardware,Docking Station,5,1352.94,6764.7,HR,Delivered
+PO-100394,2025-09-07,Johnson Controls,Facilities,Cleaning service,12,36947.03,443364.36,Engineering,Delivered
+PO-100395,2025-09-09,Blue Dart,Logistics,Warehouse handling,54,84.71,4574.34,Operations,Delivered
+PO-100396,2025-09-10,CBRE,Facilities,Cleaning service,7,2190.05,15330.35,Operations,Approved
+PO-100397,2025-09-10,Microsoft,Software,Design suite,85,185.76,15789.6,Marketing,Delivered
+PO-100398,2025-09-10,Google Ads,Marketing,Ad campaign,7,808.19,5657.33,HR,Delivered
+PO-100399,2025-09-10,Johnson Controls,Facilities,Security service,11,1061.92,11681.12,Sales,Approved
+PO-100400,2025-09-11,HP Inc,IT Hardware,Monitor,6,380.1,2280.6,Sales,Delivered
+PO-100401,2025-09-11,Ogilvy,Marketing,Ad campaign,9,2854.29,25688.61,Sales,Delivered
+PO-100402,2025-09-12,Office Depot,Office Supplies,Toner,73,44.57,3253.61,Finance,Approved
+PO-100403,2025-09-12,Adobe,Software,Design suite,60,94.01,5640.6,Sales,Delivered
+PO-100404,2025-09-13,Adobe,Software,Office licence,83,90.74,7531.42,Sales,Approved
+PO-100405,2025-09-13,Adobe,Software,Design suite,75,30.26,2269.5,Finance,Approved
+PO-100406,2025-09-13,Atlassian,Software,Project tool seat,84,62.76,5271.84,HR,Delivered
+PO-100407,2025-09-14,Johnson Controls,Facilities,AC maintenance,2,1546.69,3093.38,Sales,Delivered
+PO-100408,2025-09-15,Microsoft,Software,Project tool seat,186,74.39,13836.54,Finance,Approved
+PO-100409,2025-09-15,DHL,Logistics,Warehouse handling,73,420.85,30722.05,Operations,Delivered
+PO-100410,2025-09-16,Lenovo,IT Hardware,Docking Station,20,352.2,7044.0,Operations,Closed
+PO-100411,2025-09-17,Staples,Office Supplies,Notebooks,100,87.03,8703.0,Engineering,Approved
+PO-100412,2025-09-17,HP Inc,IT Hardware,Docking Station,13,1156.38,15032.94,Finance,Pending
+PO-100413,2025-09-17,Office Depot,Office Supplies,Paper ream,161,29.09,4683.49,Operations,Delivered
+PO-100414,2025-09-18,Adobe,Software,Project tool seat,186,62.99,11716.14,Finance,Closed
+PO-100415,2025-09-20,DHL,Logistics,Courier batch,32,772.2,24710.4,Sales,Closed
+PO-100416,2025-09-21,Dell Technologies,IT Hardware,Docking Station,15,511.73,7675.95,Marketing,Delivered
+PO-100417,2025-09-22,Lenovo,IT Hardware,Keyboard,19,693.25,13171.75,Engineering,Delivered
+PO-100418,2025-09-22,Microsoft,Software,Office licence,174,112.77,19621.98,HR,Delivered
+PO-100419,2025-09-22,Dell Technologies,IT Hardware,Docking Station,2,1316.83,2633.66,Finance,Delivered
+PO-100420,2025-09-23,Johnson Controls,Facilities,AC maintenance,1,1058.83,1058.83,Finance,Delivered
+PO-100421,2025-09-23,HP Inc,IT Hardware,Monitor,16,719.2,11507.2,Engineering,Delivered
+PO-100422,2025-09-23,Office Depot,Office Supplies,Notebooks,23,35.19,809.37,HR,Delivered
+PO-100423,2025-09-24,CBRE,Facilities,Security service,7,781.43,5470.01,Engineering,Closed
+PO-100424,2025-09-26,Microsoft,Software,Design suite,52,114.11,5933.72,Engineering,Closed
+PO-100425,2025-09-27,Dell Technologies,IT Hardware,Keyboard,5,1223.02,6115.1,Sales,Closed
+PO-100426,2025-09-27,Canva,Marketing,Brand design,5,1838.26,9191.3,Operations,Approved
+PO-100427,2025-09-28,Google Ads,Marketing,Brand design,3,4457.9,13373.7,Sales,Closed
+PO-100428,2025-09-29,Sodexo,Facilities,AC maintenance,8,999.92,7999.36,Finance,Pending
+PO-100429,2025-09-29,DHL,Logistics,Warehouse handling,70,373.69,26158.3,Operations,Delivered
+PO-100430,2025-10-02,CBRE,Facilities,Security service,12,983.16,11797.92,Engineering,Approved
+PO-100431,2025-10-02,Blue Dart,Logistics,Warehouse handling,10,93.5,935.0,Engineering,Pending
+PO-100432,2025-10-02,HP Inc,IT Hardware,Laptop,2,635.06,1270.12,Marketing,Delivered
+PO-100433,2025-10-02,Johnson Controls,Facilities,AC maintenance,7,619.64,4337.48,Finance,Delivered
+PO-100434,2025-10-03,Lenovo,IT Hardware,Laptop,20,1478.49,29569.8,Engineering,Approved
+PO-100435,2025-10-03,Blue Dart,Logistics,Freight shipment,42,707.28,29705.76,Sales,Approved
+PO-100436,2025-10-03,CBRE,Facilities,AC maintenance,11,2118.25,23300.75,Marketing,Delivered
+PO-100437,2025-10-04,Sodexo,Facilities,Cleaning service,5,1668.42,8342.1,Engineering,Delivered
+PO-100438,2025-10-04,Amazon Business,Office Supplies,Pens box,126,81.84,10311.84,Sales,Delivered
+PO-100439,2025-10-04,Lenovo,IT Hardware,Laptop,15,1031.96,15479.4,Operations,Closed
+PO-100440,2025-10-05,Lenovo,IT Hardware,Keyboard,17,1160.59,19730.03,Engineering,Delivered
+PO-100441,2025-10-06,Canva,Marketing,Ad campaign,3,3409.52,10228.56,Sales,Closed
+PO-100442,2025-10-06,Microsoft,Software,Project tool seat,143,171.41,24511.63,Sales,Pending
+PO-100443,2025-10-07,Microsoft,Software,Office licence,143,150.79,21562.97,HR,Delivered
+PO-100444,2025-10-08,Johnson Controls,Facilities,AC maintenance,6,258.32,1549.92,Engineering,Delivered
+PO-100445,2025-10-09,Dell Technologies,IT Hardware,Docking Station,6,1381.17,8287.02,HR,Closed
+PO-100446,2025-10-09,Atlassian,Software,Project tool seat,174,109.73,19093.02,Sales,Delivered
+PO-100447,2025-10-10,Staples,Office Supplies,Notebooks,253,37.08,9381.24,Sales,Delivered
+PO-100448,2025-10-11,HP Inc,IT Hardware,Monitor,16,927.73,14843.68,Finance,Closed
+PO-100449,2025-10-11,HP Inc,IT Hardware,Docking Station,12,468.56,5622.72,Marketing,Pending
+PO-100450,2025-10-12,Adobe,Software,Office licence,140,107.72,15080.8,Sales,Closed
+PO-100451,2025-10-13,Dell Technologies,IT Hardware,Laptop,270,1025.15,276790.5,Engineering,Delivered
+PO-100452,2025-10-14,Staples,Office Supplies,Notebooks,15,34.53,517.95,Operations,Approved
+PO-100453,2025-10-14,Ogilvy,Marketing,Event banner,5,2366.62,11833.1,HR,Closed
+PO-100454,2025-10-15,Microsoft,Software,Project tool seat,91,85.11,7745.01,Sales,Delivered
+PO-100455,2025-10-17,Blue Dart,Logistics,Freight shipment,80,379.26,30340.8,Finance,Closed
+PO-100456,2025-10-17,Atlassian,Software,Design suite,33,184.85,6100.05,Engineering,Delivered
+PO-100457,2025-10-18,FedEx,Logistics,Freight shipment,16,760.53,12168.48,Engineering,Delivered
+PO-100458,2025-10-18,Google Ads,Marketing,Event banner,6,4715.67,28294.02,Sales,Closed
+PO-100459,2025-10-19,Lenovo,IT Hardware,Monitor,7,943.4,6603.8,Engineering,Approved
+PO-100460,2025-10-19,Canva,Marketing,Brand design,3,4329.74,12989.22,Marketing,Closed
+PO-100461,2025-10-19,Johnson Controls,Facilities,AC maintenance,5,888.12,4440.6,Engineering,Delivered
+PO-100462,2025-10-20,Google Ads,Marketing,Brand design,10,4337.9,43379.0,Marketing,Closed
+PO-100463,2025-10-22,Johnson Controls,Facilities,Cleaning service,7,1101.99,7713.93,Engineering,Delivered
+PO-100464,2025-10-22,Lenovo,IT Hardware,Keyboard,5,843.86,4219.3,Finance,Approved
+PO-100465,2025-10-22,CBRE,Facilities,Cleaning service,10,1016.16,10161.6,HR,Delivered
+PO-100466,2025-10-24,Atlassian,Software,Design suite,43,31.87,1370.41,Operations,Approved
+PO-100467,2025-10-25,Lenovo,IT Hardware,Laptop,10,1482.04,14820.4,Engineering,Delivered
+PO-100468,2025-10-25,Adobe,Software,Project tool seat,179,124.99,22373.21,Marketing,Approved
+PO-100469,2025-10-26,Microsoft,Software,Office licence,12,127.35,1528.2,Sales,Delivered
+PO-100470,2025-10-26,Ogilvy,Marketing,Ad campaign,10,2829.23,28292.3,Marketing,Delivered
+PO-100471,2025-10-27,Ogilvy,Marketing,Event banner,4,1730.23,6920.92,HR,Approved
+PO-100472,2025-10-27,CBRE,Facilities,AC maintenance,2,438.27,876.54,Engineering,Approved
+PO-100473,2025-10-28,Staples,Office Supplies,Toner,152,32.93,5005.36,HR,Delivered
+PO-100474,2025-10-30,Johnson Controls,Facilities,Cleaning service,4,1130.59,4522.36,HR,Delivered
+PO-100475,2025-10-31,Microsoft,Software,Design suite,195,61.41,11974.95,Engineering,Delivered
+PO-100476,2025-10-31,Staples,Office Supplies,Paper ream,106,22.54,2389.24,Finance,Delivered
+PO-100477,2025-10-31,Ogilvy,Marketing,Ad campaign,9,2322.76,20904.84,Sales,Delivered
+PO-100478,2025-10-31,Atlassian,Software,Office licence,41,147.43,6044.63,Sales,Approved
+PO-100479,2025-10-31,FedEx,Logistics,Freight shipment,63,799.49,50367.87,HR,Closed
+PO-100480,2025-11-01,Canva,Marketing,Ad campaign,5,2105.24,10526.2,Engineering,Delivered
+PO-100481,2025-11-01,Ogilvy,Marketing,Ad campaign,7,788.59,5520.13,Marketing,Closed
+PO-100482,2025-11-02,FedEx,Logistics,Courier batch,49,630.5,30894.5,Operations,Closed
+PO-100483,2025-11-02,Amazon Business,Office Supplies,Notebooks,24,40.62,974.88,Operations,Delivered
+PO-100484,2025-11-02,Google Ads,Marketing,Ad campaign,10,1184.56,11845.6,Marketing,Delivered
+PO-100485,2025-11-03,Johnson Controls,Facilities,Cleaning service,3,1787.23,5361.69,Engineering,Pending
+PO-100486,2025-11-04,Johnson Controls,Facilities,AC maintenance,1,1626.69,1626.69,Sales,Closed
+PO-100487,2025-11-06,CBRE,Facilities,Cleaning service,10,939.36,9393.6,Operations,Delivered
+PO-100488,2025-11-06,Canva,Marketing,Event banner,5,511.21,2556.05,Marketing,Delivered
+PO-100489,2025-11-08,Ogilvy,Marketing,Event banner,5,1385.21,6926.05,HR,Pending
+PO-100490,2025-11-08,Canva,Marketing,Ad campaign,7,4971.49,34800.43,Engineering,Approved
+PO-100491,2025-11-08,Atlassian,Software,Project tool seat,105,156.25,16406.25,Sales,Delivered
+PO-100492,2025-11-09,Johnson Controls,Facilities,Cleaning service,11,5173.04,56903.44,HR,Delivered
+PO-100493,2025-11-09,Adobe,Software,Project tool seat,47,201.2,9456.4,Marketing,Closed
+PO-100494,2025-11-11,Atlassian,Software,Design suite,37,69.93,2587.41,Marketing,Approved
+PO-100495,2025-11-12,Atlassian,Software,Design suite,117,99.2,11606.4,Sales,Approved
+PO-100496,2025-11-12,Staples,Office Supplies,Paper ream,78,51.26,3998.28,Marketing,Approved
+PO-100497,2025-11-14,Lenovo,IT Hardware,Keyboard,13,665.92,8656.96,Engineering,Closed
+PO-100498,2025-11-15,Blue Dart,Logistics,Courier batch,17,232.07,3945.19,HR,Delivered
+PO-100499,2025-11-15,Atlassian,Software,Project tool seat,26,107.22,2787.72,Finance,Delivered
+PO-100500,2025-11-15,Google Ads,Marketing,Brand design,1,781.73,781.73,Engineering,Approved
+PO-100501,2025-11-16,Atlassian,Software,Office licence,116,84.56,9808.96,Finance,Delivered
+PO-100502,2025-11-17,Google Ads,Marketing,Brand design,7,729.05,5103.35,Sales,Pending
+PO-100503,2025-11-18,Adobe,Software,Design suite,104,206.77,21504.08,Operations,Delivered
+PO-100504,2025-11-18,Microsoft,Software,Design suite,189,216.97,41007.33,Operations,Delivered
+PO-100505,2025-11-19,Dell Technologies,IT Hardware,Keyboard,14,1375.49,19256.86,Operations,Delivered
+PO-100506,2025-11-19,Office Depot,Office Supplies,Toner,208,87.73,18247.84,Operations,Approved
+PO-100507,2025-11-19,Ogilvy,Marketing,Event banner,8,3771.34,30170.72,Operations,Delivered
+PO-100508,2025-11-19,Google Ads,Marketing,Ad campaign,7,4041.54,28290.78,Engineering,Delivered
+PO-100509,2025-11-20,Amazon Business,Office Supplies,Paper ream,269,62.03,16686.07,Operations,Closed
+PO-100510,2025-11-20,Sodexo,Facilities,Security service,7,1755.95,12291.65,HR,Delivered
+PO-100511,2025-11-21,Ogilvy,Marketing,Ad campaign,5,889.36,4446.8,Operations,Closed
+PO-100512,2025-11-22,Ogilvy,Marketing,Ad campaign,6,2121.17,12727.02,Operations,Approved
+PO-100513,2025-11-24,Staples,Office Supplies,Pens box,51,22.4,1142.4,Marketing,Delivered
+PO-100514,2025-11-25,Microsoft,Software,Project tool seat,155,142.0,22010.0,Sales,Closed
+PO-100515,2025-11-26,Office Depot,Office Supplies,Notebooks,261,68.14,17784.54,Sales,Approved
+PO-100516,2025-11-26,FedEx,Logistics,Freight shipment,63,749.83,47239.29,Marketing,Closed
+PO-100517,2025-11-26,Johnson Controls,Facilities,Security service,9,1112.99,10016.91,HR,Approved
+PO-100518,2025-11-27,Atlassian,Software,Design suite,168,145.85,24502.8,Sales,Delivered
+PO-100519,2025-11-27,Dell Technologies,IT Hardware,Monitor,7,574.07,4018.49,Engineering,Pending
+PO-100520,2025-11-27,FedEx,Logistics,Freight shipment,59,563.08,33221.72,Marketing,Closed
+PO-100521,2025-11-28,CBRE,Facilities,AC maintenance,12,1025.95,12311.4,Marketing,Approved
+PO-100522,2025-11-28,Staples,Office Supplies,Toner,248,48.26,11968.48,Engineering,Delivered
+PO-100523,2025-11-28,Sodexo,Facilities,Security service,12,613.91,7366.92,Marketing,Delivered
+PO-100524,2025-11-29,Johnson Controls,Facilities,Security service,11,2086.94,22956.34,Sales,Delivered
+PO-100525,2025-11-30,Johnson Controls,Facilities,Security service,7,577.65,4043.55,Operations,Approved
+PO-100526,2025-11-30,CBRE,Facilities,AC maintenance,3,346.06,1038.18,Engineering,Delivered
+PO-100527,2025-11-30,Microsoft,Software,Design suite,14,77.31,1082.34,Marketing,Delivered
+PO-100528,2025-12-01,Amazon Business,Office Supplies,Notebooks,153,15.29,2339.37,Engineering,Approved
+PO-100529,2025-12-03,Blue Dart,Logistics,Warehouse handling,39,921.91,35954.49,Marketing,Delivered
+PO-100530,2025-12-03,Adobe,Software,Design suite,70,92.31,6461.7,Finance,Approved
+PO-100531,2025-12-04,FedEx,Logistics,Freight shipment,12,365.3,4383.6,Sales,Delivered
+PO-100532,2025-12-06,FedEx,Logistics,Freight shipment,9,675.73,6081.57,Finance,Approved
+PO-100533,2025-12-07,Microsoft,Software,Project tool seat,157,127.53,20022.21,Engineering,Approved
+PO-100534,2025-12-08,CBRE,Facilities,Security service,8,1815.38,14523.04,HR,Delivered
+PO-100535,2025-12-08,Dell Technologies,IT Hardware,Laptop,7,544.52,3811.64,Marketing,Approved
+PO-100536,2025-12-08,Amazon Business,Office Supplies,Pens box,226,28.12,6355.12,Finance,Closed
+PO-100537,2025-12-09,Google Ads,Marketing,Ad campaign,8,2663.31,21306.48,Marketing,Approved
+PO-100538,2025-12-09,HP Inc,IT Hardware,Keyboard,3,1089.1,3267.3,Engineering,Approved
+PO-100539,2025-12-10,FedEx,Logistics,Courier batch,20,350.16,7003.2,Sales,Delivered
+PO-100540,2025-12-11,Canva,Marketing,Event banner,6,1260.86,7565.16,Engineering,Approved
+PO-100541,2025-12-12,Amazon Business,Office Supplies,Pens box,27,92.06,2485.62,Marketing,Approved
+PO-100542,2025-12-13,Sodexo,Facilities,Cleaning service,8,2176.63,17413.04,Engineering,Delivered
+PO-100543,2025-12-13,FedEx,Logistics,Freight shipment,74,273.18,20215.32,HR,Closed
+PO-100544,2025-12-13,Adobe,Software,Project tool seat,88,45.52,4005.76,Sales,Closed
+PO-100545,2025-12-14,Atlassian,Software,Design suite,69,90.58,6250.02,Operations,Closed
+PO-100546,2025-12-14,Sodexo,Facilities,Security service,7,1945.76,13620.32,Operations,Delivered
+PO-100547,2025-12-14,Canva,Marketing,Event banner,1,4936.54,4936.54,Marketing,Approved
+PO-100548,2025-12-14,Office Depot,Office Supplies,Toner,168,27.26,4579.68,Sales,Delivered
+PO-100549,2025-12-14,Atlassian,Software,Office licence,54,179.44,9689.76,HR,Closed
+PO-100550,2025-12-14,Google Ads,Marketing,Ad campaign,3,2871.76,8615.28,Finance,Delivered
+PO-100551,2025-12-15,Dell Technologies,IT Hardware,Keyboard,5,1485.4,7427.0,Operations,Approved
+PO-100552,2025-12-15,CBRE,Facilities,Security service,1,668.87,668.87,Engineering,Approved
+PO-100553,2025-12-15,Lenovo,IT Hardware,Laptop,16,1391.92,22270.72,HR,Closed
+PO-100554,2025-12-16,Dell Technologies,IT Hardware,Keyboard,13,1182.51,15372.63,Engineering,Approved
+PO-100555,2025-12-16,Atlassian,Software,Design suite,110,25.85,2843.5,Finance,Delivered
+PO-100556,2025-12-17,DHL,Logistics,Courier batch,21,149.34,3136.14,HR,Approved
+PO-100557,2025-12-17,FedEx,Logistics,Courier batch,6,767.99,4607.94,Operations,Delivered
+PO-100558,2025-12-20,Google Ads,Marketing,Event banner,9,4032.68,36294.12,Operations,Closed
+PO-100559,2025-12-21,Google Ads,Marketing,Brand design,6,1685.48,10112.88,Engineering,Approved
+PO-100560,2025-12-21,Office Depot,Office Supplies,Paper ream,288,71.16,20494.08,HR,Delivered
+PO-100561,2025-12-21,CBRE,Facilities,AC maintenance,6,939.28,5635.68,Engineering,Pending
+PO-100562,2025-12-22,Adobe,Software,Design suite,146,219.36,32026.56,HR,Closed
+PO-100563,2025-12-22,DHL,Logistics,Warehouse handling,51,893.43,45564.93,Marketing,Pending
+PO-100564,2025-12-23,Lenovo,IT Hardware,Keyboard,11,462.44,5086.84,Marketing,Pending
+PO-100565,2025-12-23,Amazon Business,Office Supplies,Paper ream,278,63.89,17761.42,Marketing,Closed
+PO-100566,2025-12-25,Atlassian,Software,Office licence,51,33.55,1711.05,Operations,Delivered
+PO-100567,2025-12-25,CBRE,Facilities,AC maintenance,4,987.42,3949.68,Marketing,Approved
+PO-100568,2025-12-26,DHL,Logistics,Warehouse handling,46,401.9,18487.4,Marketing,Delivered
+PO-100569,2025-12-26,Sodexo,Facilities,AC maintenance,4,1024.79,4099.16,Sales,Pending
+PO-100570,2025-12-27,Microsoft,Software,Project tool seat,111,183.68,20388.48,HR,Pending
+PO-100571,2025-12-27,Ogilvy,Marketing,Brand design,3,3491.36,10474.08,Sales,Pending
+PO-100572,2025-12-27,Johnson Controls,Facilities,AC maintenance,7,1608.74,11261.18,Finance,Delivered
+PO-100573,2025-12-28,Ogilvy,Marketing,Brand design,4,1185.83,4743.32,Finance,Closed
+PO-100574,2025-12-28,Atlassian,Software,Design suite,49,31.68,1552.32,Engineering,Delivered
+PO-100575,2025-12-28,Staples,Office Supplies,Pens box,186,56.05,10425.3,HR,Delivered
+PO-100576,2025-12-29,DHL,Logistics,Freight shipment,51,334.15,17041.65,Engineering,Closed
+PO-100577,2025-12-31,Sodexo,Facilities,AC maintenance,7,1467.38,10271.66,Marketing,Approved
+PO-100578,2026-01-01,Johnson Controls,Facilities,Cleaning service,8,1482.95,11863.6,Sales,Approved
+PO-100579,2026-01-02,CBRE,Facilities,AC maintenance,12,1823.8,21885.6,Engineering,Delivered
+PO-100580,2026-01-03,Dell Technologies,IT Hardware,Docking Station,17,1378.56,23435.52,Engineering,Delivered
+PO-100581,2026-01-05,Ogilvy,Marketing,Brand design,3,5236.23,15708.69,Engineering,Delivered
+PO-100582,2026-01-05,Amazon Business,Office Supplies,Paper ream,71,92.56,6571.76,Finance,Delivered
+PO-100583,2026-01-05,Blue Dart,Logistics,Courier batch,28,544.82,15254.96,Engineering,Delivered
+PO-100584,2026-01-05,Sodexo,Facilities,Cleaning service,10,496.1,4961.0,Operations,Delivered
+PO-100585,2026-01-06,Lenovo,IT Hardware,Keyboard,3,1647.35,4942.05,Sales,Approved
+PO-100586,2026-01-06,CBRE,Facilities,AC maintenance,11,2280.59,25086.49,Marketing,Approved
+PO-100587,2026-01-07,Office Depot,Office Supplies,Pens box,54,24.98,1348.92,Sales,Delivered
+PO-100588,2026-01-08,Amazon Business,Office Supplies,Notebooks,47,88.26,4148.22,HR,Delivered
+PO-100589,2026-01-08,Atlassian,Software,Project tool seat,135,189.47,25578.45,Finance,Approved
+PO-100590,2026-01-08,Dell Technologies,IT Hardware,Keyboard,18,402.81,7250.58,Operations,Approved
+PO-100591,2026-01-08,FedEx,Logistics,Freight shipment,11,347.65,3824.15,HR,Pending
+PO-100592,2026-01-10,Dell Technologies,IT Hardware,Laptop,8,718.88,5751.04,Marketing,Approved
+PO-100593,2026-01-10,Johnson Controls,Facilities,Cleaning service,8,2177.65,17421.2,Sales,Approved
+PO-100594,2026-01-10,Office Depot,Office Supplies,Pens box,53,94.14,4989.42,Operations,Closed
+PO-100595,2026-01-12,DHL,Logistics,Warehouse handling,24,262.64,6303.36,Engineering,Delivered
+PO-100596,2026-01-13,Google Ads,Marketing,Event banner,6,2304.41,13826.46,Finance,Approved
+PO-100597,2026-01-13,Sodexo,Facilities,AC maintenance,3,1514.93,4544.79,Engineering,Closed
+PO-100598,2026-01-15,DHL,Logistics,Freight shipment,23,718.92,16535.16,HR,Delivered
+PO-100599,2026-01-15,Atlassian,Software,Project tool seat,96,139.74,13415.04,HR,Closed
+PO-100600,2026-01-16,Adobe,Software,Office licence,155,171.9,26644.5,Marketing,Closed
+PO-100601,2026-01-17,Office Depot,Office Supplies,Toner,242,90.66,21939.72,Marketing,Pending
+PO-100602,2026-01-17,Amazon Business,Office Supplies,Toner,13,27.84,361.92,Engineering,Closed
+PO-100603,2026-01-17,Blue Dart,Logistics,Warehouse handling,13,129.36,1681.68,Sales,Closed
+PO-100604,2026-01-17,DHL,Logistics,Courier batch,45,655.06,29477.7,Sales,Approved
+PO-100605,2026-01-19,Staples,Office Supplies,Pens box,148,56.41,8348.68,HR,Approved
+PO-100606,2026-01-19,Google Ads,Marketing,Brand design,1,5463.1,5463.1,Finance,Approved
+PO-100607,2026-01-21,Staples,Office Supplies,Pens box,62,70.65,4380.3,Sales,Closed
+PO-100608,2026-01-21,Office Depot,Office Supplies,Notebooks,232,45.49,10553.68,Sales,Delivered
+PO-100609,2026-01-22,FedEx,Logistics,Warehouse handling,58,692.78,40181.24,Sales,Approved
+PO-100610,2026-01-23,Office Depot,Office Supplies,Paper ream,34,27.55,936.7,Engineering,Approved
+PO-100611,2026-01-24,Ogilvy,Marketing,Ad campaign,1,3669.8,3669.8,Operations,Approved
+PO-100612,2026-01-26,Canva,Marketing,Ad campaign,3,3486.26,10458.78,Sales,Delivered
+PO-100613,2026-01-26,Sodexo,Facilities,AC maintenance,8,1873.12,14984.96,Marketing,Delivered
+PO-100614,2026-01-27,HP Inc,IT Hardware,Monitor,18,1207.02,21726.36,HR,Approved
+PO-100615,2026-01-28,Sodexo,Facilities,Cleaning service,2,1629.43,3258.86,Sales,Delivered
+PO-100616,2026-01-29,FedEx,Logistics,Courier batch,5,222.11,1110.55,Marketing,Closed
+PO-100617,2026-01-29,DHL,Logistics,Freight shipment,12,583.08,6996.96,Marketing,Delivered
+PO-100618,2026-01-29,Canva,Marketing,Event banner,6,5231.12,31386.72,Operations,Delivered
+PO-100619,2026-01-30,Microsoft,Software,Design suite,114,57.66,6573.24,Finance,Closed
+PO-100620,2026-02-01,DHL,Logistics,Freight shipment,11,388.39,4272.29,HR,Delivered
+PO-100621,2026-02-01,Ogilvy,Marketing,Event banner,9,2135.32,19217.88,Sales,Closed
+PO-100622,2026-02-01,Adobe,Software,Office licence,100,39.29,3929.0,Marketing,Closed
+PO-100623,2026-02-02,Microsoft,Software,Design suite,50,44.41,2220.5,HR,Pending
+PO-100624,2026-02-02,Johnson Controls,Facilities,Security service,10,828.13,8281.3,Marketing,Closed
+PO-100625,2026-02-02,Canva,Marketing,Ad campaign,1,2398.83,2398.83,Sales,Approved
+PO-100626,2026-02-03,Adobe,Software,Office licence,12,96.75,1161.0,Sales,Approved
+PO-100627,2026-02-03,Ogilvy,Marketing,Brand design,6,5583.77,33502.62,Operations,Closed
+PO-100628,2026-02-03,Ogilvy,Marketing,Brand design,7,4376.77,30637.39,Operations,Closed
+PO-100629,2026-02-03,CBRE,Facilities,Cleaning service,2,826.13,1652.26,Engineering,Delivered
+PO-100630,2026-02-04,Johnson Controls,Facilities,Cleaning service,1,1483.63,1483.63,Operations,Approved
+PO-100631,2026-02-04,Atlassian,Software,Office licence,129,226.94,29275.26,HR,Closed
+PO-100632,2026-02-05,Staples,Office Supplies,Pens box,65,51.06,3318.9,Operations,Pending
+PO-100633,2026-02-06,Dell Technologies,IT Hardware,Monitor,11,1224.83,13473.13,Marketing,Delivered
+PO-100634,2026-02-06,Office Depot,Office Supplies,Paper ream,95,49.31,4684.45,HR,Approved
+PO-100635,2026-02-08,Office Depot,Office Supplies,Pens box,285,9.32,2656.2,Operations,Approved
+PO-100636,2026-02-08,Dell Technologies,IT Hardware,Docking Station,3,632.0,1896.0,Finance,Delivered
+PO-100637,2026-02-08,Amazon Business,Office Supplies,Pens box,263,70.39,18512.57,Engineering,Approved
+PO-100638,2026-02-08,Adobe,Software,Design suite,56,93.18,5218.08,Marketing,Delivered
+PO-100639,2026-02-09,FedEx,Logistics,Freight shipment,25,98.27,2456.75,Engineering,Delivered
+PO-100640,2026-02-10,FedEx,Logistics,Warehouse handling,65,230.41,14976.65,Sales,Delivered
+PO-100641,2026-02-10,Microsoft,Software,Design suite,164,63.94,10486.16,Sales,Approved
+PO-100642,2026-02-11,DHL,Logistics,Courier batch,58,514.36,29832.88,Marketing,Approved
+PO-100643,2026-02-12,Dell Technologies,IT Hardware,Monitor,1,979.96,979.96,HR,Pending
+PO-100644,2026-02-14,Sodexo,Facilities,Cleaning service,11,179.62,1975.82,Marketing,Delivered
+PO-100645,2026-02-14,DHL,Logistics,Warehouse handling,67,111.46,7467.82,Engineering,Pending
+PO-100646,2026-02-15,Dell Technologies,IT Hardware,Laptop,8,594.04,4752.32,Engineering,Closed
+PO-100647,2026-02-15,Staples,Office Supplies,Notebooks,51,15.41,785.91,Finance,Approved
+PO-100648,2026-02-16,Google Ads,Marketing,Brand design,8,1913.31,15306.48,Engineering,Pending
+PO-100649,2026-02-16,Atlassian,Software,Project tool seat,102,163.26,16652.52,HR,Delivered
+PO-100650,2026-02-17,FedEx,Logistics,Freight shipment,46,496.21,22825.66,Marketing,Pending
+PO-100651,2026-02-18,Atlassian,Software,Design suite,141,175.36,24725.76,Operations,Delivered
+PO-100652,2026-02-19,DHL,Logistics,Courier batch,66,304.28,20082.48,Engineering,Delivered
+PO-100653,2026-02-19,DHL,Logistics,Freight shipment,38,900.17,34206.46,Sales,Approved
+PO-100654,2026-02-20,Blue Dart,Logistics,Freight shipment,15,601.36,9020.4,Marketing,Delivered
+PO-100655,2026-02-20,Atlassian,Software,Design suite,116,169.74,19689.84,Engineering,Closed
+PO-100656,2026-02-20,Office Depot,Office Supplies,Pens box,183,46.42,8494.86,Finance,Approved
+PO-100657,2026-02-20,Lenovo,IT Hardware,Monitor,3,622.06,1866.18,Engineering,Delivered
+PO-100658,2026-02-22,Lenovo,IT Hardware,Docking Station,6,557.83,3346.98,Operations,Delivered
+PO-100659,2026-02-22,Johnson Controls,Facilities,Security service,5,437.78,2188.9,Marketing,Delivered
+PO-100660,2026-02-23,Atlassian,Software,Office licence,126,125.55,15819.3,Marketing,Delivered
+PO-100661,2026-02-23,Sodexo,Facilities,Security service,12,451.98,5423.76,Operations,Delivered
+PO-100662,2026-02-24,HP Inc,IT Hardware,Laptop,18,678.33,12209.94,Marketing,Approved
+PO-100663,2026-02-25,Ogilvy,Marketing,Ad campaign,9,3226.14,29035.26,HR,Closed
+PO-100664,2026-02-25,Dell Technologies,IT Hardware,Monitor,3,771.95,2315.85,Sales,Approved
+PO-100665,2026-02-26,DHL,Logistics,Warehouse handling,64,162.67,10410.88,Finance,Delivered
+PO-100666,2026-02-26,FedEx,Logistics,Warehouse handling,61,891.68,54392.48,HR,Approved
+PO-100667,2026-02-28,Staples,Office Supplies,Pens box,30,1562.0,46860.0,Finance,Pending
+PO-100668,2026-03-01,Dell Technologies,IT Hardware,Monitor,7,1082.45,7577.15,Finance,Delivered
+PO-100669,2026-03-01,Dell Technologies,IT Hardware,Docking Station,4,1386.84,5547.36,Finance,Delivered
+PO-100670,2026-03-01,Lenovo,IT Hardware,Monitor,4,1099.53,4398.12,Finance,Closed
+PO-100671,2026-03-01,CBRE,Facilities,AC maintenance,1,1941.46,1941.46,HR,Approved
+PO-100672,2026-03-01,Google Ads,Marketing,Event banner,1,5996.95,5996.95,Sales,Closed
+PO-100673,2026-03-03,Google Ads,Marketing,Brand design,6,4687.31,28123.86,Finance,Approved
+PO-100674,2026-03-03,Lenovo,IT Hardware,Laptop,14,1303.84,18253.76,Finance,Delivered
+PO-100675,2026-03-04,Office Depot,Office Supplies,Notebooks,127,20.04,2545.08,Operations,Closed
+PO-100676,2026-03-05,Ogilvy,Marketing,Event banner,6,1940.65,11643.9,Marketing,Closed
+PO-100677,2026-03-06,DHL,Logistics,Courier batch,75,572.6,42945.0,HR,Closed
+PO-100678,2026-03-06,Office Depot,Office Supplies,Toner,43,83.37,3584.91,Finance,Delivered
+PO-100679,2026-03-08,Blue Dart,Logistics,Warehouse handling,78,894.41,69763.98,Marketing,Approved
+PO-100680,2026-03-09,DHL,Logistics,Warehouse handling,29,806.14,23378.06,Operations,Approved
+PO-100681,2026-03-11,Blue Dart,Logistics,Courier batch,34,835.69,28413.46,Marketing,Approved
+PO-100682,2026-03-12,HP Inc,IT Hardware,Laptop,17,1066.33,18127.61,Marketing,Delivered
+PO-100683,2026-03-12,DHL,Logistics,Warehouse handling,26,742.33,19300.58,Engineering,Delivered
+PO-100684,2026-03-13,DHL,Logistics,Warehouse handling,15,460.75,6911.25,Finance,Closed
+PO-100685,2026-03-14,Google Ads,Marketing,Brand design,3,2158.78,6476.34,HR,Closed
+PO-100686,2026-03-14,Ogilvy,Marketing,Brand design,3,683.11,2049.33,Marketing,Delivered
+PO-100687,2026-03-14,Microsoft,Software,Office licence,11,154.06,1694.66,Operations,Approved
+PO-100688,2026-03-15,Canva,Marketing,Brand design,4,5856.97,23427.88,Finance,Delivered
+PO-100689,2026-03-15,Amazon Business,Office Supplies,Pens box,129,56.2,7249.8,Operations,Closed
+PO-100690,2026-03-16,Office Depot,Office Supplies,Notebooks,191,52.72,10069.52,Finance,Closed
+PO-100691,2026-03-16,Johnson Controls,Facilities,Security service,11,2139.5,23534.5,HR,Approved
+PO-100692,2026-03-17,HP Inc,IT Hardware,Docking Station,13,550.51,7156.63,Sales,Pending
+PO-100693,2026-03-17,Dell Technologies,IT Hardware,Monitor,10,1748.6,17486.0,Engineering,Closed
+PO-100694,2026-03-17,HP Inc,IT Hardware,Laptop,2,797.89,1595.78,HR,Pending
+PO-100695,2026-03-17,Canva,Marketing,Ad campaign,5,1801.53,9007.65,HR,Closed
+PO-100696,2026-03-18,CBRE,Facilities,Security service,11,826.27,9088.97,Marketing,Delivered
+PO-100697,2026-03-18,Canva,Marketing,Ad campaign,7,4115.72,28810.04,Sales,Delivered
+PO-100698,2026-03-19,Office Depot,Office Supplies,Toner,208,31.29,6508.32,Finance,Closed
+PO-100699,2026-03-19,Johnson Controls,Facilities,AC maintenance,5,1284.21,6421.05,Operations,Approved
+PO-100700,2026-03-19,Ogilvy,Marketing,Brand design,7,4413.17,30892.19,Operations,Closed
+PO-100701,2026-03-21,Sodexo,Facilities,Security service,7,586.96,4108.72,Marketing,Closed
+PO-100702,2026-03-21,Blue Dart,Logistics,Warehouse handling,7,732.45,5127.15,Marketing,Approved
+PO-100703,2026-03-22,Lenovo,IT Hardware,Keyboard,19,1555.98,29563.62,Sales,Closed
+PO-100704,2026-03-23,Ogilvy,Marketing,Event banner,1,5180.45,5180.45,HR,Delivered
+PO-100705,2026-03-25,DHL,Logistics,Courier batch,20,512.77,10255.4,Marketing,Closed
+PO-100706,2026-03-26,Adobe,Software,Project tool seat,39,90.32,3522.48,Operations,Closed
+PO-100707,2026-03-27,Amazon Business,Office Supplies,Pens box,183,34.61,6333.63,Finance,Delivered
+PO-100708,2026-03-28,HP Inc,IT Hardware,Monitor,9,831.01,7479.09,Engineering,Approved
+PO-100709,2026-03-28,Ogilvy,Marketing,Event banner,2,5895.21,11790.42,Operations,Delivered
+PO-100710,2026-03-28,Canva,Marketing,Ad campaign,8,2522.86,20182.88,Finance,Approved
+PO-100711,2026-03-28,Microsoft,Software,Design suite,79,215.64,17035.56,Engineering,Pending
+PO-100712,2026-03-28,Canva,Marketing,Brand design,6,827.51,4965.06,Marketing,Delivered
+PO-100713,2026-03-29,DHL,Logistics,Warehouse handling,47,695.73,32699.31,Sales,Pending
+PO-100714,2026-04-01,Canva,Marketing,Ad campaign,6,3449.5,20697.0,Sales,Delivered
+PO-100715,2026-04-01,Office Depot,Office Supplies,Paper ream,21,87.28,1832.88,Sales,Delivered
+PO-100716,2026-04-02,Adobe,Software,Project tool seat,147,110.55,16250.85,HR,Approved
+PO-100717,2026-04-03,Staples,Office Supplies,Notebooks,86,97.79,8409.94,Marketing,Closed
+PO-100718,2026-04-05,FedEx,Logistics,Courier batch,12,661.28,7935.36,Finance,Pending
+PO-100719,2026-04-06,Ogilvy,Marketing,Ad campaign,5,4689.56,23447.8,HR,Delivered
+PO-100720,2026-04-06,Ogilvy,Marketing,Brand design,3,4102.56,12307.68,Sales,Delivered
+PO-100721,2026-04-06,Ogilvy,Marketing,Brand design,3,1170.79,3512.37,Finance,Delivered
+PO-100722,2026-04-07,Office Depot,Office Supplies,Paper ream,113,91.37,10324.81,Marketing,Approved
+PO-100723,2026-04-07,Johnson Controls,Facilities,AC maintenance,6,131.82,790.92,Engineering,Approved
+PO-100724,2026-04-07,Ogilvy,Marketing,Brand design,8,732.66,5861.28,Engineering,Delivered
+PO-100725,2026-04-08,Microsoft,Software,Project tool seat,163,198.7,32388.1,Finance,Delivered
+PO-100726,2026-04-08,Atlassian,Software,Project tool seat,92,90.06,8285.52,Sales,Delivered
+PO-100727,2026-04-09,Microsoft,Software,Office licence,177,187.2,33134.4,Sales,Delivered
+PO-100728,2026-04-10,Johnson Controls,Facilities,Cleaning service,4,1569.77,6279.08,Sales,Delivered
+PO-100729,2026-04-10,DHL,Logistics,Warehouse handling,49,139.21,6821.29,Finance,Delivered
+PO-100730,2026-04-11,Lenovo,IT Hardware,Monitor,19,1658.62,31513.78,Sales,Delivered
+PO-100731,2026-04-11,Johnson Controls,Facilities,Security service,8,638.18,5105.44,Sales,Approved
+PO-100732,2026-04-12,Sodexo,Facilities,Security service,2,960.24,1920.48,Finance,Approved
+PO-100733,2026-04-13,Ogilvy,Marketing,Ad campaign,1,336.61,336.61,Sales,Delivered
+PO-100734,2026-04-13,Lenovo,IT Hardware,Docking Station,15,1542.55,23138.25,Marketing,Approved
+PO-100735,2026-04-13,FedEx,Logistics,Courier batch,40,118.04,4721.6,Operations,Approved
+PO-100736,2026-04-14,Blue Dart,Logistics,Freight shipment,72,858.36,61801.92,Operations,Closed
+PO-100737,2026-04-15,DHL,Logistics,Courier batch,11,148.12,1629.32,HR,Closed
+PO-100738,2026-04-16,DHL,Logistics,Freight shipment,6,720.01,4320.06,Sales,Closed
+PO-100739,2026-04-17,Blue Dart,Logistics,Freight shipment,23,450.42,10359.66,Sales,Approved
+PO-100740,2026-04-18,Ogilvy,Marketing,Ad campaign,10,5977.78,59777.8,Sales,Pending
+PO-100741,2026-04-19,Google Ads,Marketing,Ad campaign,4,473.8,1895.2,Finance,Approved
+PO-100742,2026-04-20,Adobe,Software,Design suite,65,231.74,15063.1,Marketing,Delivered
+PO-100743,2026-04-20,CBRE,Facilities,Security service,2,370.12,740.24,Marketing,Delivered
+PO-100744,2026-04-21,Microsoft,Software,Design suite,84,117.07,9833.88,Sales,Approved
+PO-100745,2026-04-21,Lenovo,IT Hardware,Monitor,17,1497.22,25452.74,Finance,Delivered
+PO-100746,2026-04-21,CBRE,Facilities,AC maintenance,7,478.84,3351.88,Sales,Delivered
+PO-100747,2026-04-22,Canva,Marketing,Event banner,4,4953.19,19812.76,HR,Delivered
+PO-100748,2026-04-22,Canva,Marketing,Ad campaign,2,5750.32,11500.64,Marketing,Delivered
+PO-100749,2026-04-23,Blue Dart,Logistics,Courier batch,12,139.32,1671.84,Marketing,Closed
+PO-100750,2026-04-23,Canva,Marketing,Brand design,9,5139.31,46253.79,Operations,Closed
+PO-100751,2026-04-23,DHL,Logistics,Courier batch,16,764.77,12236.32,Operations,Delivered
+PO-100752,2026-04-23,HP Inc,IT Hardware,Monitor,13,872.91,11347.83,Sales,Approved
+PO-100753,2026-04-24,Sodexo,Facilities,AC maintenance,10,614.05,6140.5,Sales,Closed
+PO-100754,2026-04-24,DHL,Logistics,Freight shipment,34,799.82,27193.88,Sales,Closed
+PO-100755,2026-04-25,Canva,Marketing,Brand design,5,3133.86,15669.3,Operations,Approved
+PO-100756,2026-04-25,Adobe,Software,Project tool seat,106,85.48,9060.88,Engineering,Closed
+PO-100757,2026-04-26,Lenovo,IT Hardware,Docking Station,9,1191.66,10724.94,Marketing,Delivered
+PO-100758,2026-04-27,DHL,Logistics,Warehouse handling,45,256.64,11548.8,Marketing,Closed
+PO-100759,2026-04-27,HP Inc,IT Hardware,Monitor,380,1388.46,527614.8,HR,Approved
+PO-100760,2026-04-28,Dell Technologies,IT Hardware,Monitor,5,1820.12,9100.6,Sales,Approved
+PO-100761,2026-04-29,Adobe,Software,Office licence,55,87.75,4826.25,Engineering,Delivered
+PO-100762,2026-04-29,FedEx,Logistics,Courier batch,49,647.68,31736.32,Finance,Closed
+PO-100763,2026-04-29,FedEx,Logistics,Courier batch,53,498.49,26419.97,Finance,Delivered
+PO-100764,2026-04-29,Canva,Marketing,Event banner,3,3583.41,10750.23,Engineering,Delivered
+PO-100765,2026-05-01,Lenovo,IT Hardware,Laptop,5,393.02,1965.1,Marketing,Delivered
+PO-100766,2026-05-01,Google Ads,Marketing,Ad campaign,4,675.56,2702.24,Engineering,Closed
+PO-100767,2026-05-02,Sodexo,Facilities,Security service,10,1166.27,11662.7,Operations,Closed
+PO-100768,2026-05-02,Sodexo,Facilities,Cleaning service,5,867.4,4337.0,Engineering,Approved
+PO-100769,2026-05-02,Google Ads,Marketing,Event banner,10,3273.66,32736.6,Finance,Approved
+PO-100770,2026-05-03,Microsoft,Software,Project tool seat,147,236.75,34802.25,Sales,Delivered
+PO-100771,2026-05-03,HP Inc,IT Hardware,Laptop,3,1791.33,5373.99,Marketing,Approved
+PO-100772,2026-05-03,Blue Dart,Logistics,Courier batch,74,556.23,41161.02,Sales,Approved
+PO-100773,2026-05-03,Staples,Office Supplies,Notebooks,70,58.29,4080.3,Operations,Approved
+PO-100774,2026-05-03,FedEx,Logistics,Freight shipment,26,456.34,11864.84,Marketing,Delivered
+PO-100775,2026-05-04,DHL,Logistics,Warehouse handling,33,683.7,22562.1,HR,Delivered
+PO-100776,2026-05-04,CBRE,Facilities,Security service,1,1521.91,1521.91,Engineering,Approved
+PO-100777,2026-05-05,Staples,Office Supplies,Pens box,62,72.8,4513.6,Marketing,Approved
+PO-100778,2026-05-07,DHL,Logistics,Courier batch,77,363.44,27984.88,Engineering,Delivered
+PO-100779,2026-05-08,Lenovo,IT Hardware,Laptop,13,764.51,9938.63,Sales,Approved
+PO-100780,2026-05-09,FedEx,Logistics,Warehouse handling,79,98.57,7787.03,Engineering,Closed
+PO-100781,2026-05-09,Amazon Business,Office Supplies,Notebooks,94,47.11,4428.34,Marketing,Pending
+PO-100782,2026-05-10,CBRE,Facilities,AC maintenance,7,557.83,3904.81,Operations,Approved
+PO-100783,2026-05-11,Amazon Business,Office Supplies,Paper ream,219,26.82,5873.58,HR,Closed
+PO-100784,2026-05-14,Lenovo,IT Hardware,Keyboard,6,1387.65,8325.9,Finance,Delivered
+PO-100785,2026-05-14,Office Depot,Office Supplies,Toner,185,26.65,4930.25,Engineering,Pending
+PO-100786,2026-05-14,Johnson Controls,Facilities,Security service,10,2401.83,24018.3,Operations,Delivered
+PO-100787,2026-05-14,Sodexo,Facilities,Cleaning service,7,1415.71,9909.97,Operations,Approved
+PO-100788,2026-05-14,Amazon Business,Office Supplies,Paper ream,33,49.91,1647.03,Marketing,Delivered
+PO-100789,2026-05-14,Johnson Controls,Facilities,AC maintenance,4,459.63,1838.52,HR,Delivered
+PO-100790,2026-05-15,Office Depot,Office Supplies,Pens box,299,97.3,29092.7,Operations,Delivered
+PO-100791,2026-05-17,Amazon Business,Office Supplies,Toner,65,19.53,1269.45,Operations,Delivered
+PO-100792,2026-05-18,Canva,Marketing,Ad campaign,1,1452.14,1452.14,Finance,Delivered
+PO-100793,2026-05-18,Sodexo,Facilities,AC maintenance,5,842.37,4211.85,Marketing,Delivered
+PO-100794,2026-05-19,Google Ads,Marketing,Brand design,5,1816.65,9083.25,Sales,Delivered
+PO-100795,2026-05-19,Dell Technologies,IT Hardware,Laptop,20,985.52,19710.4,Engineering,Approved
+PO-100796,2026-05-21,Atlassian,Software,Office licence,99,107.52,10644.48,Engineering,Approved
+PO-100797,2026-05-21,Ogilvy,Marketing,Ad campaign,9,5305.16,47746.44,Sales,Delivered
+PO-100798,2026-05-21,Ogilvy,Marketing,Brand design,10,3288.74,32887.4,Operations,Delivered
+PO-100799,2026-05-22,CBRE,Facilities,AC maintenance,10,1328.64,13286.4,Operations,Delivered
+PO-100800,2026-05-23,Adobe,Software,Design suite,162,236.15,38256.3,Operations,Delivered
+PO-100801,2026-05-24,Canva,Marketing,Event banner,5,1544.57,7722.85,Sales,Closed
+PO-100802,2026-05-24,HP Inc,IT Hardware,Laptop,10,758.58,7585.8,HR,Delivered
+PO-100803,2026-05-25,Canva,Marketing,Ad campaign,1,682.74,682.74,Operations,Delivered
+PO-100804,2026-05-26,Microsoft,Software,Office licence,43,221.6,9528.8,Operations,Closed
+PO-100805,2026-05-26,Sodexo,Facilities,Security service,6,1814.38,10886.28,HR,Delivered
+PO-100806,2026-05-26,Google Ads,Marketing,Ad campaign,2,2585.5,5171.0,Operations,Delivered
+PO-100807,2026-05-27,HP Inc,IT Hardware,Docking Station,6,1005.03,6030.18,Finance,Pending
+PO-100808,2026-05-27,Canva,Marketing,Ad campaign,10,3938.72,39387.2,Engineering,Approved
+PO-100809,2026-05-29,FedEx,Logistics,Courier batch,31,146.03,4526.93,Finance,Delivered
+PO-100810,2026-05-30,HP Inc,IT Hardware,Monitor,14,501.96,7027.44,Engineering,Approved
+PO-100811,2026-06-01,HP Inc,IT Hardware,Monitor,17,1354.21,23021.57,Finance,Approved
+PO-100812,2026-06-03,DHL,Logistics,Warehouse handling,47,424.48,19950.56,Marketing,Delivered
+PO-100813,2026-06-04,CBRE,Facilities,Security service,9,2047.96,18431.64,Engineering,Delivered
+PO-100814,2026-06-04,Atlassian,Software,Project tool seat,35,88.65,3102.75,Operations,Closed
+PO-100815,2026-06-06,DHL,Logistics,Courier batch,41,782.63,32087.83,Marketing,Approved
+PO-100816,2026-06-06,Sodexo,Facilities,AC maintenance,10,1668.55,16685.5,HR,Approved
+PO-100817,2026-06-07,Dell Technologies,IT Hardware,Laptop,5,1266.66,6333.3,Finance,Delivered
+PO-100818,2026-06-07,Blue Dart,Logistics,Freight shipment,62,398.49,24706.38,HR,Approved
+PO-100819,2026-06-07,Blue Dart,Logistics,Warehouse handling,48,630.52,30264.96,Sales,Delivered
+PO-100820,2026-06-07,Adobe,Software,Design suite,137,88.4,12110.8,Marketing,Delivered
+PO-100821,2026-06-08,Amazon Business,Office Supplies,Pens box,226,9.36,2115.36,Operations,Pending
+PO-100822,2026-06-09,Sodexo,Facilities,Cleaning service,12,405.63,4867.56,Marketing,Approved
+PO-100823,2026-06-13,Dell Technologies,IT Hardware,Monitor,20,1186.47,23729.4,HR,Delivered
+PO-100824,2026-06-14,Sodexo,Facilities,Cleaning service,3,779.34,2338.02,Operations,Delivered
+PO-100825,2026-06-14,Canva,Marketing,Ad campaign,9,4509.0,40581.0,Marketing,Approved
+PO-100826,2026-06-15,Ogilvy,Marketing,Ad campaign,5,439.2,2196.0,Operations,Delivered
+PO-100827,2026-06-15,CBRE,Facilities,Security service,3,1851.11,5553.33,Finance,Closed
+PO-100828,2026-06-15,Canva,Marketing,Brand design,8,5059.43,40475.44,Marketing,Delivered
+PO-100829,2026-06-16,Dell Technologies,IT Hardware,Laptop,7,1134.09,7938.63,Marketing,Pending
+PO-100830,2026-06-16,Staples,Office Supplies,Toner,101,84.19,8503.19,Operations,Delivered
+PO-100831,2026-06-17,Amazon Business,Office Supplies,Paper ream,266,57.03,15169.98,Finance,Approved
+PO-100832,2026-06-18,DHL,Logistics,Freight shipment,9,917.12,8254.08,Engineering,Delivered
+PO-100833,2026-06-18,Ogilvy,Marketing,Brand design,1,4341.21,4341.21,Engineering,Closed
+PO-100834,2026-06-20,Dell Technologies,IT Hardware,Docking Station,1,405.73,405.73,HR,Delivered
+PO-100835,2026-06-20,Canva,Marketing,Ad campaign,7,5239.61,36677.27,HR,Delivered
+PO-100836,2026-06-21,Microsoft,Software,Project tool seat,99,28.28,2799.72,HR,Approved
+PO-100837,2026-06-22,Ogilvy,Marketing,Ad campaign,5,5398.45,26992.25,Engineering,Approved
+PO-100838,2026-06-23,Lenovo,IT Hardware,Keyboard,19,662.73,12591.87,Engineering,Delivered
+PO-100839,2026-06-24,FedEx,Logistics,Courier batch,14,638.57,8939.98,Marketing,Delivered
+PO-100840,2026-06-24,Adobe,Software,Project tool seat,131,144.6,18942.6,Engineering,Delivered
+PO-100841,2026-06-24,Staples,Office Supplies,Pens box,102,61.76,6299.52,Marketing,Delivered
+PO-100842,2026-06-25,Google Ads,Marketing,Ad campaign,3,1153.59,3460.77,Sales,Delivered
+PO-100843,2026-06-27,Blue Dart,Logistics,Warehouse handling,18,182.65,3287.7,Operations,Delivered
+PO-100844,2026-06-28,Canva,Marketing,Ad campaign,7,4026.94,28188.58,HR,Delivered
+PO-100845,2026-06-28,Microsoft,Software,Office licence,138,185.94,25659.72,Operations,Closed
+PO-100846,2026-06-28,Amazon Business,Office Supplies,Toner,292,16.08,4695.36,Engineering,Approved
+PO-100847,2026-06-28,Ogilvy,Marketing,Brand design,5,4219.36,21096.8,Finance,Delivered
+PO-100848,2026-06-30,Staples,Office Supplies,Toner,187,55.1,10303.7,HR,Pending
+PO-100849,2026-07-01,CBRE,Facilities,Cleaning service,7,2052.67,14368.69,Operations,Approved
+PO-100850,2026-07-02,HP Inc,IT Hardware,Keyboard,6,562.09,3372.54,Engineering,Delivered
+PO-100851,2026-07-07,Lenovo,IT Hardware,Laptop,4,1483.76,5935.04,Operations,Approved
+PO-100852,2026-07-07,CBRE,Facilities,Cleaning service,2,284.51,569.02,Operations,Closed
+PO-100853,2026-07-07,Staples,Office Supplies,Pens box,46,59.07,2717.22,Operations,Delivered
+PO-100854,2026-07-08,HP Inc,IT Hardware,Monitor,14,1832.15,25650.1,Operations,Pending
+PO-100855,2026-07-08,Adobe,Software,Office licence,82,68.09,5583.38,Engineering,Approved
+PO-100856,2026-07-09,HP Inc,IT Hardware,Keyboard,7,655.79,4590.53,Sales,Delivered
+PO-100857,2026-07-11,Adobe,Software,Project tool seat,191,200.52,38299.32,Operations,Closed
+PO-100858,2026-07-13,Ogilvy,Marketing,Brand design,5,2965.72,14828.6,Marketing,Delivered
+PO-100859,2026-07-14,Blue Dart,Logistics,Warehouse handling,52,953.86,49600.72,Engineering,Delivered
+PO-100860,2026-07-16,Office Depot,Office Supplies,Paper ream,276,35.23,9723.48,Operations,Delivered
+PO-100861,2026-07-16,DHL,Logistics,Warehouse handling,80,519.28,41542.4,Operations,Approved
+PO-100862,2026-07-16,Johnson Controls,Facilities,Security service,5,253.16,1265.8,Sales,Approved
+PO-100863,2026-07-17,Google Ads,Marketing,Event banner,5,1353.37,6766.85,HR,Pending
+PO-100864,2026-07-17,DHL,Logistics,Courier batch,20,787.68,15753.6,Sales,Delivered
+PO-100865,2026-07-18,Sodexo,Facilities,Cleaning service,12,2268.97,27227.64,Finance,Delivered
+PO-100866,2026-07-18,Canva,Marketing,Brand design,2,670.65,1341.3,Finance,Closed
+PO-100867,2026-07-19,CBRE,Facilities,AC maintenance,10,1456.16,14561.6,Operations,Approved
+PO-100868,2026-07-19,Johnson Controls,Facilities,AC maintenance,2,1273.98,2547.96,HR,Delivered
+PO-100869,2026-07-21,Sodexo,Facilities,AC maintenance,1,200.55,200.55,Finance,Approved
+PO-100870,2026-07-22,Amazon Business,Office Supplies,Paper ream,30,8.09,242.7,Operations,Closed
+PO-100871,2026-07-22,HP Inc,IT Hardware,Laptop,16,1518.82,24301.12,Finance,Delivered
+PO-100872,2026-07-22,FedEx,Logistics,Warehouse handling,43,466.33,20052.19,Finance,Pending
+PO-100873,2026-07-23,Amazon Business,Office Supplies,Notebooks,80,57.96,4636.8,Marketing,Pending
+PO-100874,2026-07-26,Ogilvy,Marketing,Event banner,5,4605.69,23028.45,Sales,Approved
+PO-100875,2026-07-28,Johnson Controls,Facilities,Security service,1,1103.66,1103.66,Marketing,Pending
+PO-100876,2026-07-28,Canva,Marketing,Brand design,2,1013.62,2027.24,Engineering,Pending
+PO-100877,2026-07-28,Dell Technologies,IT Hardware,Keyboard,12,470.61,5647.32,HR,Closed
+PO-100878,2026-07-29,Adobe,Software,Design suite,123,235.53,28970.19,HR,Approved
+PO-100879,2026-07-29,Lenovo,IT Hardware,Laptop,4,1767.53,7070.12,Finance,Delivered
+PO-100880,2026-07-30,CBRE,Facilities,Cleaning service,2,2394.54,4789.08,Marketing,Closed
+PO-100881,2026-07-30,Microsoft,Software,Design suite,11,106.64,1173.04,Operations,Closed
+PO-100882,2026-07-30,CBRE,Facilities,Cleaning service,7,899.41,6295.87,Sales,Closed
+PO-100883,2026-07-30,Lenovo,IT Hardware,Laptop,16,1195.91,19134.56,Sales,Delivered
+PO-100884,2026-08-01,Office Depot,Office Supplies,Toner,205,65.99,13527.95,HR,Approved
+PO-100885,2026-08-02,Staples,Office Supplies,Notebooks,90,91.03,8192.7,Marketing,Approved
+PO-100886,2026-08-02,CBRE,Facilities,Security service,3,2544.75,7634.25,HR,Delivered
+PO-100887,2026-08-03,HP Inc,IT Hardware,Keyboard,1,1720.39,1720.39,Engineering,Delivered
+PO-100888,2026-08-03,Atlassian,Software,Design suite,100,26.08,2608.0,Operations,Approved
+PO-100889,2026-08-03,FedEx,Logistics,Warehouse handling,46,809.59,37241.14,Marketing,Pending
+PO-100890,2026-08-05,CBRE,Facilities,Security service,8,1736.29,13890.32,Marketing,Approved
+PO-100891,2026-08-06,Johnson Controls,Facilities,Security service,4,321.55,1286.2,HR,Approved
+PO-100892,2026-08-07,Atlassian,Software,Project tool seat,133,173.41,23063.53,Marketing,Approved
+PO-100893,2026-08-08,Sodexo,Facilities,Cleaning service,11,1910.35,21013.85,Sales,Approved
+PO-100894,2026-08-09,Canva,Marketing,Event banner,4,948.43,3793.72,Sales,Delivered
+PO-100895,2026-08-09,Canva,Marketing,Ad campaign,8,1812.88,14503.04,Operations,Approved
+PO-100896,2026-08-09,Ogilvy,Marketing,Brand design,6,3645.19,21871.14,HR,Delivered
+PO-100897,2026-08-10,Blue Dart,Logistics,Warehouse handling,76,274.15,20835.4,Engineering,Closed
+PO-100898,2026-08-10,Canva,Marketing,Event banner,1,1260.84,1260.84,HR,Closed
+PO-100899,2026-08-10,Johnson Controls,Facilities,Cleaning service,10,2158.27,21582.7,HR,Delivered
+PO-100900,2026-08-10,Adobe,Software,Design suite,133,94.75,12601.75,Operations,Approved
+PO-100901,2026-08-11,Microsoft,Software,Office licence,139,160.79,22349.81,Engineering,Closed
+PO-100902,2026-08-12,HP Inc,IT Hardware,Laptop,20,1147.11,22942.2,Marketing,Pending
+PO-100903,2026-08-13,Office Depot,Office Supplies,Pens box,241,24.52,5909.32,Operations,Delivered
+PO-100904,2026-08-14,FedEx,Logistics,Freight shipment,54,379.56,20496.24,Marketing,Approved
+PO-100905,2026-08-15,Sodexo,Facilities,Cleaning service,9,1323.27,11909.43,Finance,Approved
+PO-100906,2026-08-15,Office Depot,Office Supplies,Notebooks,267,82.6,22054.2,Sales,Closed
+PO-100907,2026-08-17,Johnson Controls,Facilities,Security service,11,2560.54,28165.94,Engineering,Approved
+PO-100908,2026-08-18,Lenovo,IT Hardware,Docking Station,1,1436.2,1436.2,Sales,Delivered
+PO-100909,2026-08-18,Lenovo,IT Hardware,Monitor,17,749.86,12747.62,Sales,Delivered
+PO-100910,2026-08-19,FedEx,Logistics,Warehouse handling,64,909.87,58231.68,Engineering,Approved
+PO-100911,2026-08-20,Amazon Business,Office Supplies,Pens box,108,101.51,10963.08,Finance,Delivered
+PO-100912,2026-08-21,Canva,Marketing,Brand design,10,486.21,4862.1,Finance,Delivered
+PO-100913,2026-08-21,HP Inc,IT Hardware,Keyboard,8,752.24,6017.92,Operations,Closed
+PO-100914,2026-08-22,Blue Dart,Logistics,Warehouse handling,55,883.3,48581.5,Marketing,Delivered
+PO-100915,2026-08-24,Lenovo,IT Hardware,Monitor,18,1502.07,27037.26,Engineering,Pending
+PO-100916,2026-08-24,Google Ads,Marketing,Ad campaign,1,5886.76,5886.76,Finance,Closed
+PO-100917,2026-08-24,DHL,Logistics,Warehouse handling,954,694.52,662572.08,HR,Delivered
+PO-100918,2026-08-27,Dell Technologies,IT Hardware,Keyboard,9,1426.61,12839.49,HR,Delivered
+PO-100919,2026-08-27,Lenovo,IT Hardware,Docking Station,12,1393.05,16716.6,Finance,Delivered
+PO-100920,2026-08-29,Dell Technologies,IT Hardware,Laptop,19,1384.56,26306.64,Engineering,Delivered
+PO-100921,2026-08-31,Ogilvy,Marketing,Event banner,10,1948.5,19485.0,Operations,Approved
+PO-100922,2026-08-31,HP Inc,IT Hardware,Docking Station,18,665.86,11985.48,Sales,Delivered
+PO-100923,2026-09-01,Sodexo,Facilities,Security service,4,1249.11,4996.44,Operations,Delivered
+PO-100924,2026-09-01,Google Ads,Marketing,Ad campaign,3,5121.82,15365.46,Finance,Approved
+PO-100925,2026-09-02,Canva,Marketing,Ad campaign,2,1086.08,2172.16,Operations,Closed
+PO-100926,2026-09-03,Sodexo,Facilities,Security service,4,1815.26,7261.04,Sales,Closed
+PO-100927,2026-09-03,FedEx,Logistics,Courier batch,36,644.84,23214.24,HR,Delivered
+PO-100928,2026-09-04,Adobe,Software,Office licence,10,136.86,1368.6,HR,Closed
+PO-100929,2026-09-05,DHL,Logistics,Courier batch,20,109.91,2198.2,HR,Pending
+PO-100930,2026-09-05,Sodexo,Facilities,Cleaning service,4,1981.5,7926.0,Engineering,Delivered
+PO-100931,2026-09-05,Adobe,Software,Office licence,95,2125.74,201945.3,Operations,Approved
+PO-100932,2026-09-06,Lenovo,IT Hardware,Keyboard,11,807.04,8877.44,Operations,Delivered
+PO-100933,2026-09-07,Amazon Business,Office Supplies,Notebooks,78,55.31,4314.18,Marketing,Pending
+PO-100934,2026-09-07,Google Ads,Marketing,Event banner,7,3428.1,23996.7,Finance,Approved
+PO-100935,2026-09-08,DHL,Logistics,Courier batch,35,69.29,2425.15,Marketing,Approved
+PO-100936,2026-09-08,Dell Technologies,IT Hardware,Monitor,11,958.01,10538.11,Operations,Delivered
+PO-100937,2026-09-09,Google Ads,Marketing,Ad campaign,9,2324.95,20924.55,Sales,Approved
+PO-100938,2026-09-12,DHL,Logistics,Freight shipment,60,850.45,51027.0,Marketing,Closed
+PO-100939,2026-09-13,Staples,Office Supplies,Notebooks,126,53.15,6696.9,Marketing,Closed
+PO-100940,2026-09-13,Office Depot,Office Supplies,Paper ream,276,39.97,11031.72,Marketing,Pending
+PO-100941,2026-09-13,Amazon Business,Office Supplies,Notebooks,266,16.97,4514.02,HR,Delivered
+PO-100942,2026-09-14,Office Depot,Office Supplies,Toner,81,66.16,5358.96,HR,Approved
+PO-100943,2026-09-14,Google Ads,Marketing,Event banner,3,4409.0,13227.0,Marketing,Delivered
+PO-100944,2026-09-14,Lenovo,IT Hardware,Monitor,9,818.89,7370.01,Sales,Delivered
+PO-100945,2026-09-14,Atlassian,Software,Office licence,68,34.17,2323.56,Engineering,Approved
+PO-100946,2026-09-15,Lenovo,IT Hardware,Monitor,9,517.8,4660.2,Operations,Delivered
+PO-100947,2026-09-15,Sodexo,Facilities,Cleaning service,5,2573.92,12869.6,Marketing,Delivered
+PO-100948,2026-09-16,HP Inc,IT Hardware,Docking Station,9,1352.72,12174.48,Marketing,Approved
+PO-100949,2026-09-16,HP Inc,IT Hardware,Laptop,10,1373.17,13731.7,Finance,Delivered
+PO-100950,2026-09-17,Amazon Business,Office Supplies,Paper ream,243,18.81,4570.83,Finance,Closed
+PO-100951,2026-09-17,Amazon Business,Office Supplies,Paper ream,201,62.04,12470.04,Finance,Delivered
+PO-100952,2026-09-18,Office Depot,Office Supplies,Paper ream,50,70.45,3522.5,Operations,Approved
+PO-100953,2026-09-20,Ogilvy,Marketing,Brand design,10,5977.72,59777.2,HR,Closed
+PO-100954,2026-09-20,Google Ads,Marketing,Event banner,9,2383.75,21453.75,Operations,Approved
+PO-100955,2026-09-21,Atlassian,Software,Office licence,185,76.33,14121.05,Marketing,Closed
+PO-100956,2026-09-22,Blue Dart,Logistics,Warehouse handling,23,773.84,17798.32,HR,Delivered
+PO-100957,2026-09-22,Dell Technologies,IT Hardware,Keyboard,17,794.48,13506.16,Operations,Delivered
+PO-100958,2026-09-23,Sodexo,Facilities,Cleaning service,9,252.35,2271.15,Sales,Approved
+PO-100959,2026-09-25,Blue Dart,Logistics,Warehouse handling,6,332.37,1994.22,Finance,Approved
+PO-100960,2026-09-25,Dell Technologies,IT Hardware,Laptop,19,1099.44,20889.36,HR,Delivered
+PO-100961,2026-09-25,HP Inc,IT Hardware,Laptop,2,1057.52,2115.04,Engineering,Pending
+PO-100962,2026-09-26,Johnson Controls,Facilities,AC maintenance,7,2407.25,16850.75,Engineering,Approved
+PO-100963,2026-09-26,Ogilvy,Marketing,Ad campaign,4,4564.05,18256.2,Marketing,Approved
+PO-100964,2026-09-26,Ogilvy,Marketing,Brand design,4,3943.9,15775.6,HR,Delivered
+PO-100965,2026-09-26,Amazon Business,Office Supplies,Toner,62,46.86,2905.32,Operations,Delivered
+PO-100966,2026-09-27,Atlassian,Software,Office licence,24,28.52,684.48,Operations,Closed
+PO-100967,2026-09-29,Sodexo,Facilities,Security service,1,2007.38,2007.38,Operations,Delivered
+PO-100968,2026-09-30,Atlassian,Software,Project tool seat,45,138.14,6216.3,Finance,Delivered
+PO-100969,2026-09-30,Blue Dart,Logistics,Courier batch,38,398.76,15152.88,Sales,Approved
+PO-100970,2026-10-02,Office Depot,Office Supplies,Toner,81,103.6,8391.6,Finance,Closed
+PO-100971,2026-10-03,DHL,Logistics,Warehouse handling,17,926.55,15751.35,Finance,Delivered
+PO-100972,2026-10-04,Blue Dart,Logistics,Courier batch,13,454.17,5904.21,Marketing,Approved
+PO-100973,2026-10-05,Ogilvy,Marketing,Brand design,8,5816.15,46529.2,HR,Delivered
+PO-100974,2026-10-05,FedEx,Logistics,Freight shipment,9,306.1,2754.9,Sales,Approved
+PO-100975,2026-10-05,Microsoft,Software,Design suite,43,120.49,5181.07,Sales,Closed
+PO-100976,2026-10-06,Sodexo,Facilities,AC maintenance,12,1013.94,12167.28,Finance,Approved
+PO-100977,2026-10-07,Blue Dart,Logistics,Warehouse handling,48,447.92,21500.16,HR,Approved
+PO-100978,2026-10-07,HP Inc,IT Hardware,Keyboard,20,1797.01,35940.2,Operations,Delivered
+PO-100979,2026-10-07,DHL,Logistics,Freight shipment,54,224.16,12104.64,Sales,Delivered
+PO-100980,2026-10-07,Sodexo,Facilities,AC maintenance,8,1922.09,15376.72,Sales,Pending
+PO-100981,2026-10-08,Canva,Marketing,Event banner,6,3952.18,23713.08,Finance,Delivered
+PO-100982,2026-10-08,Canva,Marketing,Brand design,9,1267.35,11406.15,Marketing,Approved
+PO-100983,2026-10-09,Sodexo,Facilities,Security service,6,802.88,4817.28,Operations,Delivered
+PO-100984,2026-10-09,Ogilvy,Marketing,Ad campaign,9,5807.35,52266.15,Operations,Delivered
+PO-100985,2026-10-10,Ogilvy,Marketing,Event banner,4,3056.23,12224.92,Finance,Delivered
+PO-100986,2026-10-12,Dell Technologies,IT Hardware,Keyboard,1,443.66,443.66,Finance,Delivered
+PO-100987,2026-10-12,Blue Dart,Logistics,Courier batch,71,688.73,48899.83,Sales,Closed
+PO-100988,2026-10-14,DHL,Logistics,Courier batch,37,649.61,24035.57,Engineering,Approved
+PO-100989,2026-10-14,Sodexo,Facilities,AC maintenance,6,432.03,2592.18,Operations,Approved
+PO-100990,2026-10-15,Dell Technologies,IT Hardware,Monitor,11,1675.65,18432.15,Marketing,Closed
+PO-100991,2026-10-15,Adobe,Software,Project tool seat,17,249.08,4234.36,Sales,Closed
+PO-100992,2026-10-16,Sodexo,Facilities,Security service,10,1632.72,16327.2,HR,Closed
+PO-100993,2026-10-17,Ogilvy,Marketing,Event banner,1,4846.96,4846.96,Sales,Approved
+PO-100994,2026-10-18,HP Inc,IT Hardware,Keyboard,15,1345.47,20182.05,Engineering,Approved
+PO-100995,2026-10-19,Lenovo,IT Hardware,Keyboard,190,1429.03,271515.7,Operations,Approved
+PO-100996,2026-10-19,Sodexo,Facilities,Security service,10,981.74,9817.4,Marketing,Closed
+PO-100997,2026-10-20,Johnson Controls,Facilities,AC maintenance,8,758.4,6067.2,Finance,Approved
+PO-100998,2026-10-20,Ogilvy,Marketing,Ad campaign,6,6066.23,36397.38,Engineering,Approved
+PO-100999,2026-10-21,Canva,Marketing,Event banner,3,1314.81,3944.43,Engineering,Delivered
+PO-101000,2026-10-23,Microsoft,Software,Design suite,128,258.42,33077.76,Sales,Approved
+PO-101001,2026-10-24,Amazon Business,Office Supplies,Paper ream,44,97.35,4283.4,HR,Delivered
+PO-101002,2026-10-24,Google Ads,Marketing,Event banner,7,4693.28,32852.96,HR,Approved
+PO-101003,2026-10-27,Amazon Business,Office Supplies,Notebooks,87,41.62,3620.94,Finance,Approved
+PO-101004,2026-10-27,Amazon Business,Office Supplies,Pens box,165,68.66,11328.9,Finance,Delivered
+PO-101005,2026-10-27,CBRE,Facilities,Cleaning service,1,1442.7,1442.7,Finance,Approved
+PO-101006,2026-10-27,Staples,Office Supplies,Notebooks,161,42.17,6789.37,Operations,Approved
+PO-101007,2026-10-28,Staples,Office Supplies,Pens box,159,73.89,11748.51,Sales,Approved
+PO-101008,2026-10-28,Staples,Office Supplies,Toner,233,93.81,21857.73,Operations,Approved
+PO-101009,2026-10-28,Dell Technologies,IT Hardware,Docking Station,6,1617.75,9706.5,Finance,Approved
