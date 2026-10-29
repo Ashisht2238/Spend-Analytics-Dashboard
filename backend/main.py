@@ -139,3 +139,5 @@ def forecast(data: pd.DataFrame = Depends(filter_data)):
         ],
         "message": None,
     }
+
+print("Ashish")
