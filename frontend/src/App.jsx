@@ -89,8 +89,10 @@ function App() {
   return (
     <div className="page">
       <header className="page-header">
-        <h1>Spend Analytics</h1>
-        <p>Purchase order spend, unusual orders and forecast</p>
+        <h1>Spend Analytics Dashboard</h1>
+        <p>
+          
+        </p>
       </header>
       {error && (
         <div className="error-banner" role="alert">
@@ -104,26 +106,22 @@ function App() {
         onChange={setFilters}
         onReset={() => setFilters(EMPTY_FILTERS)}
       />
-      <div className={loading ? "content is-loading" : "content"} aria-busy={loading}>
+     <div className={loading ? "content is-loading" : "content"} aria-busy={loading}>
         <KpiCards summary={dashboard.summary} />
         <section className="chart-grid">
-          <SpendChart title="Spend by Month" data={dashboard.byMonth} labelKey="month" wide />
           <SpendChart title="Spend by Vendor" data={dashboard.byVendor} labelKey="vendor" horizontal />
-          <div className="chart-stack">
-            <SpendChart title="Spend by Category" data={dashboard.byCategory} labelKey="category" horizontal />
-            <SpendChart
-              title={forecastTitle}
+          <SpendChart title="Spend by Category" data={dashboard.byCategory} labelKey="category" horizontal />
+          <SpendChart title="Spend by Month" data={dashboard.byMonth} labelKey="month" wide />
+        </section>
+        <AnomalyTable orders={dashboard.anomalies} />
+        <SpendChart
+              title={"3. Forecast: Next Month's Spend"}
               data={forecast.forecast}
               labelKey="category"
-              horizontal 
               valueKey="forecast_spend"
               valueLabel="Forecast"
               emptyMessage={forecast.message || "No data for these filters."}
-              note="Straight-line trend per category, based on monthly spend without the unusual orders. The latest month may be incomplete, so the forecast can run low."
             />
-          </div>
-        </section>
-        <AnomalyTable orders={dashboard.anomalies} />
       </div>
     </div>
   );
