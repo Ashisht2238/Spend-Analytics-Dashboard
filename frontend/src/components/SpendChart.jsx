@@ -18,7 +18,7 @@ function SpendChart({
   note = null,
 }) {
   const className = wide ? "chart-card chart-wide" : "chart-card";
-  const height = horizontal ? Math.max(240, data.length * 32 + 40) : 300;
+  const height = horizontal ? Math.max(240, data.length * 32 + 40) : 615;
 
   return (
     <section className={className}>
@@ -43,11 +43,11 @@ function SpendChart({
           ) : (
             <>
               <XAxis dataKey={labelKey} />
-              <YAxis tickFormatter={(value) => compact.format(value)} width={50} />
+              <YAxis tickFormatter={(value) => compact.format(value)} width={25} />
             </>
           )}
           <Tooltip formatter={(value) => whole.format(value)} />
-          <Bar dataKey={valueKey} name={valueLabel} fill="#2f5bea" />
+          <Bar dataKey={valueKey} name={valueLabel} fill="#2f5bea" barSize={50} />
         </BarChart>
       )}
       {note && <p className="chart-note">{note}</p>}

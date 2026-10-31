@@ -4,6 +4,7 @@ import AnomalyTable from "./components/AnomalyTable";
 import FilterBar from "./components/FilterBar";
 import KpiCards from "./components/KpiCards";
 import SpendChart from "./components/SpendChart";
+import SpendLineChart from "./components/SpendLineChart";
 
 const EMPTY_FILTERS = {
   vendor: "",
@@ -90,9 +91,7 @@ function App() {
     <div className="page">
       <header className="page-header">
         <h1>Spend Analytics Dashboard</h1>
-        <p>
-          
-        </p>
+        <p>Purchase order spend, unusual orders and forecast</p>
       </header>
       {error && (
         <div className="error-banner" role="alert">
@@ -108,14 +107,16 @@ function App() {
       />
      <div className={loading ? "content is-loading" : "content"} aria-busy={loading}>
         <KpiCards summary={dashboard.summary} />
+        <h2 className="section-title">1. Spend Analysis</h2>
         <section className="chart-grid">
           <SpendChart title="Spend by Vendor" data={dashboard.byVendor} labelKey="vendor" horizontal />
-          <SpendChart title="Spend by Category" data={dashboard.byCategory} labelKey="category" horizontal />
-          <SpendChart title="Spend by Month" data={dashboard.byMonth} labelKey="month" wide />
+          <SpendChart title="Spend by Category" data={dashboard.byCategory} labelKey="category"   /> 
+          <SpendLineChart title="Spend by Month" data={dashboard.byMonth} labelKey="month" valueKey="total_spend"/>
         </section>
+        <h2 className="section-title">2. Unusual Orders</h2>
         <AnomalyTable orders={dashboard.anomalies} />
+        <h2 className="section-title">3. Forecast: Next Month's Spend</h2>
         <SpendChart
-              title={"3. Forecast: Next Month's Spend"}
               data={forecast.forecast}
               labelKey="category"
               valueKey="forecast_spend"

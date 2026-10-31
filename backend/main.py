@@ -19,10 +19,11 @@ app.add_middleware(
 )
 
 # A straight-line trend needs at least this many months of data to mean anything.
-MIN_FORECAST_MONTHS = 3
+MIN_FORECAST_MONTHS = 3 
 
 # Load the CSV and flag unusual orders ONCE, when the server starts.
-df = flag_anomalies(load_data())
+# df = flag_anomalies(load_data())
+df = flag_anomalies(load_data(), contamination=0.015)
 
 
 def filter_data(
@@ -54,8 +55,7 @@ def spend_by(data, column):
     """Add up total_amount for each value of `column`, biggest first."""
     grouped = (
         data.groupby(column)["total_amount"]
-        .sum()
-        .sort_values(ascending=False)
+        .sum() 
         .round(2)
     )
     return [{column: name, "total_spend": float(value)} for name, value in grouped.items()]
@@ -119,24 +119,51 @@ def anomalies(data: pd.DataFrame = Depends(filter_data)):
     return rows.to_dict(orient="records")
 
 
+# @app.get("/api/forecast")
+# def forecast(data: pd.DataFrame = Depends(filter_data)):
+#     """Next month's predicted spend per category (flagged orders left out)."""
+#     normal_orders = data[~data["is_anomaly"]]
+#     if normal_orders["month"].nunique() < MIN_FORECAST_MONTHS:
+#         return {
+#             "next_month": None,
+#             "forecast": [],
+#             "message": f"Need at least {MIN_FORECAST_MONTHS} months of data to forecast.",
+#         }
+#     result, next_month = forecast_next_month(normal_orders)
+#     result = result.sort_values(ascending=False).round(0)
+#     return {
+#         "next_month": next_month.strftime("%Y-%m"),
+#         "forecast": [
+#             {"category": category, "forecast_spend": float(value)}
+#             for category, value in result.items()
+#         ],
+#         "message": None,
+#     }
+
 @app.get("/api/forecast")
 def forecast(data: pd.DataFrame = Depends(filter_data)):
-    """Next month's predicted spend per category (flagged orders left out)."""
+
     normal_orders = data[~data["is_anomaly"]]
+
     if normal_orders["month"].nunique() < MIN_FORECAST_MONTHS:
         return {
             "next_month": None,
             "forecast": [],
-            "message": f"Need at least {MIN_FORECAST_MONTHS} months of data to forecast.",
+            "message": f"Need at least {MIN_FORECAST_MONTHS} months of data to forecast."
         }
+
     result, next_month = forecast_next_month(normal_orders)
+
     result = result.sort_values(ascending=False).round(0)
+
     return {
         "next_month": next_month.strftime("%Y-%m"),
         "forecast": [
-            {"category": category, "forecast_spend": float(value)}
+            {
+                "category": category,
+                "forecast_spend": float(value)
+            }
             for category, value in result.items()
         ],
-        "message": None,
+        "message": None
     }
-

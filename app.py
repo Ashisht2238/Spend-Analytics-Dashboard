@@ -40,9 +40,9 @@ left, right = st.columns(2)
 with left:
     st.subheader("Spend by Vendor")
 
-    vendor_spend = (df.groupby("vendor")["total_amount"].sum().sort_values(ascending=True))
+    vendor_spend = (df.groupby("vendor")["total_amount"].sum())
 
-    fig, ax = plt.subplots(figsize=(8, 5))
+    fig, ax = plt.subplots(figsize=(7, 6))
 
     ax.barh(vendor_spend.index , vendor_spend.values)
 
@@ -59,19 +59,18 @@ with left:
 
 # ---------- CATEGORY CHART ----------
 with right:
-
     st.subheader("Spend by Category")
 
-    category_spend = (df.groupby("category")["total_amount"].sum().sort_values(ascending=True))
+    category_spend = (df.groupby("category")["total_amount"].sum() )
 
-    fig, ax = plt.subplots(figsize=(8, 5))
+    fig, ax = plt.subplots(figsize=(7, 6))
 
     ax.bar( category_spend.index , category_spend.values)
 
     ax.set_xlabel("Total Spend (₹)")
     ax.set_ylabel("Category")
 
-    ax.grid(axis="x", linestyle="--", alpha=0.4)
+    ax.grid(axis="y", linestyle="--", alpha=0.4)
 
     plt.tight_layout()
 
@@ -112,31 +111,48 @@ st.write(
     f"{len(flagged)} orders look unusual for their category."
 )
 
+table_height = (len(flagged) + 1) * 35 + 3
+
 st.dataframe(
     flagged[["po_number","po_date","vendor","category","item","quantity","unit_price","total_amount"]],
-    width="stretch"
+    width="stretch",
+    height=min(table_height, 800)
 )
-
 
 # ---------- FORECAST ----------
 st.header("3. Forecast: Next Month's Spend")
 
-forecast, next_month = forecast_next_month(df[~df["is_anomaly"]])
+normal_orders = df[~df["is_anomaly"]]
 
-st.write(f"Predicted spend for **{next_month:%B %Y}**")
+MIN_FORECAST_MONTHS = 3
 
-fig, ax = plt.subplots(figsize=(10, 5))
+if normal_orders["month"].nunique() < MIN_FORECAST_MONTHS:
 
-forecast = forecast.sort_values(ascending=True)
+    st.warning("Need at least 3 months of data to forecast.")
 
-ax.barh(forecast.index , forecast.values)
+else:
 
-ax.set_xlabel("Predicted Spend (₹)")
-ax.set_ylabel("Category") 
+    forecast, next_month = forecast_next_month(normal_orders)
 
-ax.grid(axis="x", linestyle="--", alpha=0.4)
+    # Sort and round exactly like FastAPI
+    forecast = forecast.sort_values(
+        ascending=False
+    ).round(0)
 
-plt.tight_layout()
+    st.write(
+        f"Predicted spend for **{next_month:%B %Y}**"
+    )
 
-st.pyplot(fig)
-plt.close(fig)
+    fig, ax = plt.subplots(figsize=(10, 4))
+
+    ax.bar(forecast.index, forecast.values)
+
+    ax.set_xlabel("Category")
+    ax.set_ylabel("Predicted Spend (₹)")
+
+    ax.grid(axis="y", linestyle="--", alpha=0.4)
+
+    plt.tight_layout()
+
+    st.pyplot(fig)
+    plt.close(fig)

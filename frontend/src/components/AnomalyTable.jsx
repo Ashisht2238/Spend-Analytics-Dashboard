@@ -7,7 +7,6 @@ const whole = new Intl.NumberFormat("en-US", { maximumFractionDigits: 0 });
 function AnomalyTable({ orders }) {
   return (
     <section className="table-card">
-      <h2>2.Unusual Orders({orders.length})</h2>
       {orders.length === 0 ? (
         <p className="chart-empty">No unusual orders for these filters.</p>
       ) : (
