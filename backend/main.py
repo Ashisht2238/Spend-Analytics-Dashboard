@@ -167,3 +167,10 @@ def forecast(data: pd.DataFrame = Depends(filter_data)):
         ],
         "message": None
     }
+
+
+@app.get("/")
+def home():
+    return {
+        "message": "Spend Analytics Dashboard API is running successfully!"
+    }
