@@ -11,12 +11,15 @@ from src.forecast import forecast_next_month
 
 app = FastAPI(title="Spend Analytics API")
 
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://127.0.0.1:5173"],
-    allow_methods=["GET"],
+    allow_origins=["*"],
+    allow_credentials=False,
+    allow_methods=["*"],
     allow_headers=["*"],
 )
+
 
 # A straight-line trend needs at least this many months of data to mean anything.
 MIN_FORECAST_MONTHS = 3 
